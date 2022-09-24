@@ -9,7 +9,7 @@ Soft, gooey, brownie cookies.
 - Yield: 16 3-4in cookies
 - Author: [Sarah Kieffer](https://www.thevanillabeanblog.com/100-cookies/)
 
-![Brownie cookies](/recipes/brownie-cookies/hero.jpg =600x)
+![Brownie cookies](/recipes/brownie-cookies/hero.jpg){:width="600px"}
 
 ## Inventory
 
@@ -38,7 +38,7 @@ Soft, gooey, brownie cookies.
 
 ## Instructions
 
-_Optionally cut meal and dry brine overnight_
+_Note: does not need to be refridgerated before baking_
 
 ### Prepare
 
