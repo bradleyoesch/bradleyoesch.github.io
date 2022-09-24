@@ -10,6 +10,8 @@ Easy, slow-cooked carnitas.
 - Author: [J. Kenji López-Alt](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe)
 
 ![](./hero.jpg){:width="600px"}
+<br />
+_<sup>Image source: <https://seriouseats.com></sup>_
 
 ## Inventory
 

@@ -10,6 +10,8 @@ Soft, gooey, brownie cookies.
 - Author: [Sarah Kieffer](https://www.thevanillabeanblog.com/100-cookies/)
 
 ![](./hero.jpg){:width="600px"}
+<br />
+_<sup>Image source: <https://richanddelish.com></sup>_
 
 ## Inventory
 
