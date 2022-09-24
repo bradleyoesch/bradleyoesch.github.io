@@ -9,7 +9,7 @@ Easy, slow-cooked carnitas.
 - Yield: ~3 lbs
 - Author: [J. Kenji López-Alt](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe)
 
-![Carnitas](/recipes/carnitas.jpg){:width="600px"}
+![Carnitas](/recipes/hero.jpg){:width="600px"}
 
 ## Inventory
 
