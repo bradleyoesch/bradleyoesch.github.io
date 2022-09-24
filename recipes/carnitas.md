@@ -9,7 +9,7 @@ Easy, slow-cooked carnitas.
 - Yield: ~3 lbs
 - Author: [J. Kenji López-Alt](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe)
 
-![Carnitas](/carnitas.png)
+![Carnitas](/recipes/carnitas.jpg =600x)
 
 ## Inventory
 
@@ -22,10 +22,10 @@ Easy, slow-cooked carnitas.
 - 2 bay leaves
 - 1/4 C vegetable oil
 
-### Special Items
+### Special Equipment
 
-- 9x13 dish
-- Strainer
+- 9x13 baking dish
+- Large strainer
 - Medium bowl
 
 ## Instructions
@@ -37,7 +37,7 @@ _Optionally cut meal and dry brine overnight_
 1. Preheat oven to 275°F
 1. Cut the 3 lbs pork shoulder into 2 inch cubes
 1. Salt the meat
-1. Arrange meat in 9x13 dish
+1. Arrange meat in 9x13 baking dish
 1. Split orange into quarters, squeeze juice over meat
 1. Wedge into the dish in an even layer:
     1. The 4 squeezed orange quarters
