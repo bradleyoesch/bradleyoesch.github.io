@@ -9,7 +9,7 @@ Soft, gooey, brownie cookies.
 - Yield: 16 3-4in cookies
 - Author: [Sarah Kieffer](https://www.thevanillabeanblog.com/100-cookies/)
 
-![Brownie cookies](/recipes/brownie-cookies/hero.jpg){:width="600px"}
+![](./hero.jpg){:width="600px"}
 
 ## Inventory
 
