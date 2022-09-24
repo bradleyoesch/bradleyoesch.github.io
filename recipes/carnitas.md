@@ -40,10 +40,10 @@ _Optionally cut meal and dry brine overnight_
 1. Arrange meat in 9x13 baking dish
 1. Split orange into quarters, squeeze juice over meat
 1. Wedge into the dish in an even layer:
-    1. The 4 squeezed orange quarters
-    1. 2 onion quarters
-    1. 4 cloves garlic
-    1. 2 bay leaves
+  1. The 4 squeezed orange quarters
+  1. 2 onion quarters
+  1. 4 cloves garlic
+  1. 2 bay leaves
 1. Pour 1/4 C vegetable oil over dish
 
 ### Cook
@@ -71,4 +71,4 @@ Serve on tortilla with onions + cilantro, avocado, tomatillo salsa, cotija chees
 
 ### Storage
 
-1. Stores well in refridgerator for idk probably like a week
+1. Will keep in airtight container in refridgerator for like a week
