@@ -3,9 +3,9 @@
 Easy, slow-cooked carnitas.
 
 - Total time: 4 hours
-  - Prep time: 15 minutes
-  - Cook time: 3.5 hours
-  - Post-cook time: 15 minutes
+    - Prep time: 15 minutes
+    - Cook time: 3.5 hours
+    - Post-cook time: 15 minutes
 - Yield: ~3 lbs
 - Author: [J. Kenji López-Alt](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe)
 
@@ -40,10 +40,10 @@ _Optionally cut meal and dry brine overnight_
 1. Arrange meat in 9x13 baking dish
 1. Split orange into quarters, squeeze juice over meat
 1. Wedge into the dish in an even layer:
-  1. The 4 squeezed orange quarters
-  1. 2 onion quarters
-  1. 4 cloves garlic
-  1. 2 bay leaves
+    1. The 4 squeezed orange quarters
+    1. 2 onion quarters
+    1. 4 cloves garlic
+    1. 2 bay leaves
 1. Pour 1/4 C vegetable oil over dish
 
 ### Cook
@@ -56,7 +56,7 @@ _Optionally cut meal and dry brine overnight_
 1. Discard out everything but the meat and juices
 1. For 10 min, strain the meat and juices in medium-sized bowl
 1. Add the meat back to the dish (or container for storing)
-   1. Optionally skim the fat off the top of the juices and add the fat back to the dish
+    - Optionally skim the fat off the top of the juices and add the fat back to the dish
 1. Using two forks or your fingers, shred meat
 
 ## Notes
