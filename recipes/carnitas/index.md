@@ -32,7 +32,7 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 
 ## Instructions
 
-_Optionally cut meal and dry brine overnight_
+_Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnight_
 
 ### Prepare
 
