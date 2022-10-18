@@ -4,7 +4,7 @@ Easy, slow-cooked carnitas.
 
 - Total time: 4 hours
     - Prep time: 15 minutes
-    - Cook time: 3.5 hours
+    - Cook time: 3½ hours
     - Post-cook time: 15 minutes
 - Yield: ~3 lbs
 - Author: [J. Kenji López-Alt](https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-recipe)
@@ -19,10 +19,10 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 
 - 3 pounds pork shoulder
 - 1 medium orange
-- 1/2 onion
+- ½ onion
 - 4 cloves garlic
 - 2 bay leaves
-- 1/4 C vegetable oil
+- ¼ cup vegetable oil
 
 ### Special Equipment
 
@@ -37,37 +37,41 @@ _Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnigh
 ### Prepare
 
 1. Preheat oven to 275°F
-1. Cut the 3 lbs pork shoulder into 2 inch cubes
-1. Salt the meat
-1. Arrange meat in 9x13 baking dish
-1. Split orange into quarters, squeeze juice over meat
-1. Wedge into the dish in an even layer:
-    1. The 4 squeezed orange quarters
-    1. 2 onion quarters
-    1. 4 cloves garlic
-    1. 2 bay leaves
-1. Pour 1/4 C vegetable oil over dish
+1. 3 lbs pork shoulder - cut into 2 inch cubes
+1. Salt meat
+1. In 9x13 baking dish
+    1. Arrange
+        - Pork cubes - arrange around dish
+    1. Slice and squeeze
+        - 1 orange - slice into quarters, squeeze juice over pork
+    1. Wedge into the dish in an even layer:
+        - The 4 squeezed orange quarters
+        - ½ onion - Slice in half (2 quarters)
+        - 4 cloves garlic
+        - 2 bay leaves
+    1. Pour over dish
+        - ¼ C vegetable oil
 
 ### Cook
 
-1. Cover tightly in foil
-1. Cook in 275°F oven until firm tender, about 3.5 hours
+1. Cover dish tightly in foil
+1. About 3½ hours - cook in 275°F oven until firm tender
 
 ### Postpare
 
-1. Discard out everything but the meat and juices
-1. For 10 min, strain the meat and juices in medium-sized bowl
-1. Add the meat back to the dish (or container for storing)
-    - Optionally skim the fat off the top of the juices and add the fat back to the dish
-1. Using two forks or your fingers, shred meat
+1. Discard everything but pork and juices
+1. 10 min - strain pork and juices in medium-sized bowl
+1. Add pork back to the dish (or container for storing)
+    - _Optionally skim fat off top of juices and add fat back to dish_
+1. Using two forks or your fingers, shred pork
 
 ## Notes
 
 ### Serving
 
 1. Preheat broiler to high with oven rack 4 inches below heating element
-1. Broil pork until brown and crisp on surface, about 6 minutes
-1. Stir again and broil again until crisp, 6 more minutes
+1. ~6 minutes - broil pork until brown and crisp on surface
+1. ~6 more minutes - stir, broil again until crisp
 
 Serve on tortilla with onions + cilantro, avocado, tomatillo salsa, cotija cheese.
 

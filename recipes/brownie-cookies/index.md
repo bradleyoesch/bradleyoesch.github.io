@@ -17,16 +17,16 @@ _<sup>Image source: <https://richanddelish.com></sup>_
 
 ### Ingredients
 
-- 3/4 C + 1 T (116g) flour
-- 3/4 tsp baking powder
+- ¾ C + 1 T (116g) flour
+- ¾ tsp baking powder
 - 3 eggs
-- 1 1/4 C (250g) sugar
-- 3/4 tsp salt
+- 1¼ C (250g) sugar
+- ¾ tsp salt
 - 1 T canola oil
 - 1 tsp vanilla
 - 5 T (70g) unsalted butter
 - 8oz (226g) semisweet chocolate
-- 1/4 C (25g) cocoa powder
+- ¼ C (25g) cocoa powder
 
 ### Special Equipment
 
@@ -47,13 +47,13 @@ _Note: does not need to be refridgerated before baking_
 1. Preheat oven to 350°F
 1. In medium bowl
     1. Mix
-        - 3/4 C (96g) flour
-        - 3/4 tsp baking powder
+        - ¾ C (96g) flour
+        - ¾ tsp baking powder
 1. In large bowl _(meanwhile melt butter/chocolate, see below)_
     1. Beat med-high 6-8 min till pale, 2x volume
         - 3 eggs
-        - 1 1/4 C (250g) sugar
-        - 3/4 tsp salt
+        - 1¼ C (250g) sugar
+        - ¾ tsp salt
     1. Beat low speed
         - 1 T canola oil
         - 1 tsp vanilla
@@ -62,7 +62,7 @@ _Note: does not need to be refridgerated before baking_
         - 5 T (70g) unsalted butter
         - 8oz (226g) semisweet chocolate
     1. Once melted, off heat, whisk in to butter/chocolate
-        - 1/4 C (25g) cocoa powder
+        - ¼ cup (25g) cocoa powder
 1. Mix butter/chocolate into egg mixture on low
 1. Mix flour/powder in on low
 
