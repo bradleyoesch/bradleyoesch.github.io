@@ -17,22 +17,22 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Ingredients
 
-2 tsp plus ¼ cup soy sauce
-2½ tsp cornstarch, divided (1½ tsp, 1 tsp)
-1½ tsp sugar, divided (½ tsp, 1 tsp)
-½ tsp kosher salt, plus more to taste
-1 lb skinless, boneless chicken thighs
-3 T sambal oelek
-2 T rice vinegar
-¼ cup water
-4 garlic cloves
-2" piece ginger
-6 scallions
-4 celery stalks
-4 oz medjool dates (about 5)
-1½ cups cilantro leaves with tender stems, divided
-⅓ cup vegetable oil
-¾ cup roasted, salted peanuts
+- 2 tsp plus ¼ cup soy sauce
+- 2½ tsp cornstarch, divided (1½ tsp, 1 tsp)
+- 1½ tsp sugar, divided (½ tsp, 1 tsp)
+- ½ tsp kosher salt, plus more to taste
+- 1 lb skinless, boneless chicken thighs
+- 3 T sambal oelek
+- 2 T rice vinegar
+- ¼ cup water
+- 4 garlic cloves
+- 2" piece ginger
+- 6 scallions
+- 4 celery stalks
+- 4 oz medjool dates (about 5)
+- 1½ cups cilantro leaves with tender stems, divided
+- ⅓ cup vegetable oil
+- ¾ cup roasted, salted peanuts
 
 #### Ingredient Substitutes
 
