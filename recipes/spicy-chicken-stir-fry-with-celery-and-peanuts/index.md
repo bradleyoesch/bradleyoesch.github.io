@@ -17,9 +17,9 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Ingredients
 
-- 2 tsp plus ¼ cup soy sauce
-- 2½ tsp cornstarch, divided (1½ tsp, 1 tsp)
-- 1½ tsp sugar, divided (½ tsp, 1 tsp)
+- 2 tsp, ¼ cup soy sauce, divided
+- 1½ tsp, 1 tsp tsp cornstarch, divided
+- ½ tsp, 1 tsp sugar, divided
 - ½ tsp kosher salt, plus more to taste
 - 1 lb skinless, boneless chicken thighs
 - 3 T sambal oelek

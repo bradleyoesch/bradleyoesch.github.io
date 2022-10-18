@@ -17,16 +17,16 @@ _<sup>Image source: <https://richanddelish.com></sup>_
 
 ### Ingredients
 
-- ¾ C + 1 T (116g) flour
+- ¾ cup + 1 T (116g) flour
 - ¾ tsp baking powder
 - 3 eggs
-- 1¼ C (250g) sugar
+- 1¼ cup (250g) sugar
 - ¾ tsp salt
 - 1 T canola oil
 - 1 tsp vanilla
 - 5 T (70g) unsalted butter
 - 8oz (226g) semisweet chocolate
-- ¼ C (25g) cocoa powder
+- ¼ cup (25g) cocoa powder
 
 ### Special Equipment
 
@@ -47,24 +47,24 @@ _Note: does not need to be refridgerated before baking_
 1. Preheat oven to 350°F
 1. In medium bowl
     1. Mix
-        - ¾ C (96g) flour
-        - ¾ tsp baking powder
+        - **¾ cup + 1 T (116g) flour**
+        - **¾ tsp baking powder**
 1. In large bowl _(meanwhile melt butter/chocolate, see below)_
     1. Beat med-high 6-8 min till pale, 2x volume
-        - 3 eggs
-        - 1¼ C (250g) sugar
-        - ¾ tsp salt
+        - **3 eggs**
+        - **1¼ cup (250g) sugar**
+        - **¾ tsp salt**
     1. Beat low speed
-        - 1 T canola oil
-        - 1 tsp vanilla
+        - **1 T canola oil**
+        - **1 tsp vanilla**
 1. In small saucepan
     1. Melt over low heat, stirring frequently
-        - 5 T (70g) unsalted butter
-        - 8oz (226g) semisweet chocolate
+        - **5 T (70g) unsalted butter**
+        - **8oz (226g) semisweet chocolate**
     1. Once melted, off heat, whisk in to butter/chocolate
-        - ¼ cup (25g) cocoa powder
-1. Mix butter/chocolate into egg mixture on low
-1. Mix flour/powder in on low
+        - **¼ cup (25g) cocoa powder**
+1. Mix **butter/chocolate** into **egg mixture** on low
+1. Mix **flour/powder** in on low
 
 ### Rest
 
@@ -75,13 +75,13 @@ _Note: does not need to be refridgerated before baking_
 1. Line baking sheet with parchment paper
 1. Drop heaping T of batter (35g) at least 2 in apart
     - Cookies will spread to 3-4 in wide
-1. Bake 8-12 min, until puffed and cracked and edges are set
+1. 8-12 min at 350°F - bake until puffed and cracked and edges are set
     -  Rotate halfway through
 
 ### Post-bake
 
 1. Optionally sprinkle salt on cookies
-1. Cool completely on pan, ~10 minutes
+1. ~10 minutes - cool completely on pan
 
 ## Notes
 
