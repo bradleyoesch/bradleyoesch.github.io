@@ -61,6 +61,8 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Prepare
 
+_If you want rice or something, prepare that now._
+
 1. In medium bowl
     1. Whisk
         - **2 tsp soy sauce**
@@ -118,4 +120,4 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Storage
 
-1. Will keep in airtight container in refridgerator for like 4-5 days hero.probably
+- Will keep in airtight container in refridgerator for like 4-5 days probably

@@ -1,7 +1,5 @@
 # Brownie Cookies
 
-Soft, gooey, brownie cookies.
-
 - Total time: 45 minutes
     - Prep time: 30 minutes
     - Cook time: 12 min
@@ -87,5 +85,5 @@ _Note: does not need to be refridgerated before baking_
 
 ### Storage
 
-1. Will keep in airtight container at room temperature for 2-3 days
-1. Roll dough into balls, will keep in freezer for upt to 3 months
+- Will keep in airtight container at room temperature for 2-3 days
+- Roll dough into balls, will keep in freezer for up to 3 months

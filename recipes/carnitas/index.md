@@ -1,7 +1,5 @@
 # Carnitas
 
-Easy, slow-cooked carnitas.
-
 - Total time: 4 hours
     - Prep time: 15 minutes
     - Cook time: 3½ hours
@@ -78,4 +76,4 @@ Serve on tortilla with onions + cilantro, avocado, tomatillo salsa, cotija chees
 
 ### Storage
 
-1. Will keep in airtight container in refridgerator for like a week
+- Will keep in airtight container in refridgerator for like a week
