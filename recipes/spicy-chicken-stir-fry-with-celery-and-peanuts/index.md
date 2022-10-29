@@ -1,7 +1,5 @@
 # Spicy Chicken Stir-Fry With Celery and Peanuts
 
-Serve with rice or something.
-
 - Total time: 50 min
     - Prep time: 20 min
     - Cook time: 25 min
@@ -33,6 +31,7 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 - 1½ cups cilantro leaves with tender stems, divided
 - ⅓ cup vegetable oil
 - ¾ cup roasted, salted peanuts
+- Cooked rice (for serving)
 
 #### Ingredient Substitutes
 
@@ -61,7 +60,7 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Prepare
 
-_If you want rice or something, prepare that now._
+_Cook rice or sides before prepping._
 
 1. In medium bowl
     1. Whisk
