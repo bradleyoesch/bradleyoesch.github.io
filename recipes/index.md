@@ -5,6 +5,7 @@
 - [Carnitas](./carnitas)
 - [Brothy pasta with chickpeas](./brothy-pasta-with-chickpeas)
 - [Spicy chicken stir fry with celery and peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
+- [Black pepper beef and celery stir-fry](./black-pepper-beef-celery-stir-fry)
 
 ## Marinade
 
@@ -16,3 +17,4 @@
 ## Dessert
 
 - [Brownie cookies](./brownie-cookies)
+- [Lemon pound cake](./lemon-pound-cake)
