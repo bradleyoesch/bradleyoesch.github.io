@@ -18,4 +18,5 @@
 
 - [Brownie cookies](./brownie-cookies)
 - [Lemon pound cake](./lemon-pound-cake)
+- [Pecan pie bars](./pecan-pie-bars)
 - [Pumpkin spice roll cookies](./pumpkin-spice-roll-cookies)
