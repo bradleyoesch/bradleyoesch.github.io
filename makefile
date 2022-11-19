@@ -1,0 +1,2 @@
+recipe:
+	./recipes/new.sh
