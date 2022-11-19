@@ -23,7 +23,7 @@ file="recipes/$dir/index.md"
 overwriting=false
 if [[ -e "recipes/$dir" ]]; then
 
-    echo "Directory recipes/$dir already exists, overwrite? (y/n, defaults to no)"
+    echo "Overwrite recipes/$dir? (y/n [n])"
     read force
 
     [[ "$force" == "y" ]] && force=true || force=false
