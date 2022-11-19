@@ -18,6 +18,10 @@
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Black Pepper Beef and Celery Stir-fry](./black-pepper-beef-celery-stir-fry)
 
+## Sides
+
+- [Corn Salsa](./corn-salsa)
+
 ## Desserts
 
 - [Brownie Cookies](./brownie-cookies)
