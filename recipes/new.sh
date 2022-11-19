@@ -34,10 +34,10 @@ file="recipes/$dir/index.md"
 
 if [[ -e "recipes/$dir" ]]; then
     if $force; then
-        echo "Found directory $dir, but running with -f, recreating"
+        echo "Directory recipes/$dir already exists, but running with -f, recreating"
         rm -rf "recipes/$dir"
     else
-        echo "Found directory $dir, exiting"
+        echo "Directory recipes/$dir already exists, exiting"
         exit 0
     fi
 fi
@@ -45,5 +45,10 @@ fi
 mkdir "recipes/$dir"
 cp recipes/template.md $file
 sed -i "" "s/TEMPLATE/$title/g" $file
+echo "
+## Uncategorized
 
-echo "Created $file with title \"$title\""
+- [$title](./$dir)" >> recipes/index.md
+
+echo "Created \"$title\""
+echo $file
