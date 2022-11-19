@@ -1,22 +1,26 @@
 # Recipes
 
-## Dinner
+## Breakfast
+
+- [Big Ol Fluffy Pancakes](./big-ol-fluffy-pancakes)
+
+## Marinades
+
+- [Anchovy Yogurt Herb](./marinade-anchovy-yogurt-herb)
+- [Cilantro Lime](./marinade-cilantro-lime)
+- [Fajita](./marinade-fajita)
+- [Lemon Yogurt](./marinade-lemon-yogurt)
+
+## Meals
 
 - [Carnitas](./carnitas)
-- [Brothy pasta with chickpeas](./brothy-pasta-with-chickpeas)
-- [Spicy chicken stir fry with celery and peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
-- [Black pepper beef and celery stir-fry](./black-pepper-beef-celery-stir-fry)
+- [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
+- [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
+- [Black Pepper Beef and Celery Stir-fry](./black-pepper-beef-celery-stir-fry)
 
-## Marinade
+## Desserts
 
-- [Anchovy yogurt herb](./marinade-anchovy-yogurt-herb)
-- [Cilantro lime](./marinade-cilantro-lime)
-- [Fajita](./marinade-fajita)
-- [Lemon yogurt](./marinade-lemon-yogurt)
-
-## Dessert
-
-- [Brownie cookies](./brownie-cookies)
-- [Lemon pound cake](./lemon-pound-cake)
-- [Pecan pie bars](./pecan-pie-bars)
-- [Pumpkin spice roll cookies](./pumpkin-spice-roll-cookies)
+- [Brownie Cookies](./brownie-cookies)
+- [Lemon Pound Cake](./lemon-pound-cake)
+- [Pecan Pie Bars](./pecan-pie-bars)
+- [Pumpkin Spice Roll Cookies](./pumpkin-spice-roll-cookies)
