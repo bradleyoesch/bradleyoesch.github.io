@@ -8,7 +8,7 @@
 
 ![](./hero.jpg){:width="600px"}
 <br />
-_<sup>Image source: <https://example.com></sup>_
+_<sup>Image source: <https://vice.com></sup>_
 
 ## Inventory
 
