@@ -13,10 +13,10 @@
 
 ## Meals
 
-- [Carnitas](./carnitas)
-- [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
-- [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Black Pepper Beef and Celery Stir-fry](./black-pepper-beef-celery-stir-fry)
+- [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
+- [Carnitas](./carnitas)
+- [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 
 ## Sides
 
