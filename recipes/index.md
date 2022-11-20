@@ -17,6 +17,7 @@
 - [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
 - [Carnitas](./carnitas)
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
+- [Turmeric Salmon with Coconut Crisp](./turmeric-salmon-with-coconut-crisp)
 
 ## Sides
 

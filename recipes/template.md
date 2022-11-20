@@ -20,6 +20,7 @@ _<sup>Image source: <https://example.com></sup>_
 - ½
 - ⅔
 - ¾
+- °F
 
 ### Special Equipment
 
