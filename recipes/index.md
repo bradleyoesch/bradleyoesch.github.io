@@ -16,6 +16,7 @@
 - [Black Pepper Beef and Celery Stir-fry](./black-pepper-beef-celery-stir-fry)
 - [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
 - [Carnitas](./carnitas)
+- [Chili](./chili)
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Turmeric Salmon with Coconut Crisp](./turmeric-salmon-with-coconut-crisp)
 
