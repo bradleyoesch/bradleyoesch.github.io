@@ -1,4 +1,4 @@
-# Anchovy yogurt herb marinade
+# Anchovy Yogurt Herb Marinade
 
 - Total time: 5 minutes
 - Yield: for ~1 lbs meat

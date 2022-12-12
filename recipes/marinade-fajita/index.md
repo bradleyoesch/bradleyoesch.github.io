@@ -1,4 +1,4 @@
-# Fajita marinade
+# Fajita Marinade
 
 - Total time: 5 minutes
 - Yield: for ~1 lbs meat

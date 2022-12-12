@@ -1,4 +1,4 @@
-# Cilantro lime marinade
+# Cilantro Lime Marinade
 
 - Total time: 5 minutes
 - Yield: for ~1 lbs meat

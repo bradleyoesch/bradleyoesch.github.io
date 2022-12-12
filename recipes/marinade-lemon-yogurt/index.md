@@ -1,4 +1,4 @@
-# Lemon yogurt marinade
+# Lemon Yogurt Marinade
 
 - Total time: 5 minutes
 - Yield: for ~1-2 lbs meat
