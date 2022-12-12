@@ -369,9 +369,9 @@ body {
     font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
 
     /**
-     * add some padding to container div, center with max-width
+     * add some padding to container `<main>`, center with max-width
      */
-    > div {
+    > main {
         padding: 2rem;
         max-width: 1000px;
         margin: 0 auto;
