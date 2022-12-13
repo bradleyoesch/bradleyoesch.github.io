@@ -51,14 +51,13 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 - 1 tiny bowl
 - 1 small bowl
 - 3 medium bowls
-- Skillet
+- Large skillet
+- Large skillet lid
 
 ## Instructions
 
 ### Prepare
 
-1. Pull **2 pounds ground beef** into about 8 chunks
-    1. Season with **almost too much salt**
 1. Finely dice
     - **1 medium yellow onion**
     - **½ jalapeño**
@@ -84,12 +83,11 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 ### Cook
 
 1. In skillet over high
-    1. Cook
-        1. 2 pounds chunked ground beef
-        1. 5-6 min - cook on one side, undisturbed until charred
-        1. 5-6 min - cook on another side, undisturbed until charred
-        1. Mash up and cook until browned
+    1. Cook until browned
+        1. **2 pounds ground beef**
+        1. Season with **almost too much salt**
     1. Remove beef and set aside
+    1. Pour fat drippings into plastic container, adding some back to pan as needed
 1. Reduce heat to medium-high
     1. 5-6 min - cook
         - 1 diced medium yellow onion
@@ -98,19 +96,24 @@ _<sup>Image source: <https://seriouseats.com></sup>_
         - Vegetable oil if needed
     1. 1 min - cook until darkened
         - **1 T tomato paste**
-1. Reduce heat to low
-    1. Deglaze with chicken stock mixture
+1. Reduce heat to medium
     1. 1 min - mix and cook
-        - Spice mixture
         - Anchovy paste
-    1. Mix
-        - Browned beef
-        - Crushed tomatoes
         - Diced jalapeño
+    1. 30 sec - mix and cook (will be very dry)
+        - Spice mixture
+    1. Deglaze with some of chicken stock mixture
+    1. Mix (will be very full)
+        - Rest of chicken stock mixture
+        - Crushed tomatoes
+        - Browned beef
         - **1 dried bay leaf**
-1. 30 min - simmer, lid on, checking every 10 min
+1. Crank heat to high until simmering
+1. Reduce heat to low
+1. At least 30 min - simmer, lid on, checking and stirring every 10 min
     - If too thick, add water
     - If too thin, simmer until desired consistency
+1. Cook for as long as you want
 
 ### Post-cook
 
