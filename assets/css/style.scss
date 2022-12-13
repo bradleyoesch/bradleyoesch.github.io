@@ -132,7 +132,6 @@ sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
-  vertical-align: baseline;
 }
 
 sub {
@@ -367,28 +366,37 @@ body {
     font-size: 20px;
     line-height: 1.6;
     font-family: source-serif-pro, Georgia, Cambria, "Times New Roman", Times, serif;
-
-    /**
-     * add some padding to container `<main>`, center with max-width
-     */
-    > main {
-        padding: 2rem;
-        max-width: 1000px;
-        margin: 0 auto;
-
-        /**
-         * remove padding from top h1
-         */
-        > h1:first-of-type {
-            margin-top: 0;
-        }
-    }
+    color: #333;
 }
+
+/**
+ * add some padding to container `<main>`, center with a max-width
+ */
+
+main {
+    padding: 1rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+/**
+ * font and color to all headings
+ */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 900;
     margin: 0;
+}
+
+/**
+ * border and margin to main headings
+ */
+
+h1, h2 {
+    border-bottom: 2px solid #606060;
+    margin-bottom: 0.25rem;
 }
 
 /**
@@ -405,6 +413,23 @@ h2 {
 
 h1 + h2, h2 + h3, h3 + h4, h4 + h5, h5 + h6 {
     margin-top: .5rem;
+}
+
+/**
+ * override generic anchor colors
+ */
+
+a {
+    color: #1254b2;
+    font-weight: bold;
+
+    &:hover, &:active, &:focus, &:visited {
+        color: #3179b5
+    }
+}
+
+p {
+  margin: .5rem 0;
 }
 
 /**
