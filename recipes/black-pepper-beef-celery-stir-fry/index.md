@@ -70,7 +70,7 @@ _One pot recipe, all in large cast-iron skillet._
 1. Heat **1 T vegetable oil**
 1. 1 min - **1 lb sirloin steak**
 1. 2 min - toss often, until scallions slightly charred
-    1. Turn steak over
+    1. Turn **steak** over
     1. Add **5 sliced celery stalks**
     1. Add **4 sliced scallions**
 1. Remove from heat
@@ -86,7 +86,7 @@ _One pot recipe, all in large cast-iron skillet._
 
 ### Serving
 
-1. Divide rice among bowls and top with beef stir-fry.
+1. Divide **rice** among bowls and top with **beef stir-fry**.
 
 ### Storage
 

@@ -20,7 +20,6 @@ _Per pound of meat_
 ### Special equipment
 
 - Microplane/zester
-- Hand juicer
 
 ## Notes
 

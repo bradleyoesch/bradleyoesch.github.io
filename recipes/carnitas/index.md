@@ -36,16 +36,21 @@ _Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnigh
 ### Prepare
 
 1. Preheat oven to 275°F
-1. **3 lbs pork shoulder** - cut into 2 inch cubes
-1. **Salt** pork
+1. Slice into 2 inch cubes
+    - **3 lbs pork shoulder**
+    - Season with **Salt**
+1. Slice into 4 quarters
+    - **1 orange**
+1. Slice in half
+    - **½ onion**
 1. In 9x13 baking dish
-    1. Arrange
-        - **Cubed pork shoulder** - arrange around dish
-    1. Slice and squeeze
-        - **1 orange** - quartered, squeeze juice over pork
+    1. Arrange around dish
+        - **Cubed pork shoulder**
+    1. Squeeze juice over pork
+        - **4 orange quarters**
     1. Wedge into the dish in an even layer:
-        - The **4 squeezed orange quarters**
-        - **½ onion** - halved
+        - **4 squeezed orange rind quarters**
+        - **Halved ½ onion**
         - **4 cloves garlic**
         - **2 bay leaves**
     1. Pour over dish
@@ -58,11 +63,11 @@ _Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnigh
 
 ### Postpare
 
-1. Discard everything but pork and juices
-1. 10 min - strain pork and juices in medium-sized bowl
-1. Add pork back to the dish (or container for storing)
+1. Discard everything but **pork and juices**
+1. 10 min - strain **pork and juices** in medium-sized bowl
+1. Add **pork** back to the dish (or container for storing)
     - _Optionally skim fat off top of juices and add fat back to dish_
-1. Using two forks or your fingers, shred pork
+1. Using two forks or your fingers, shred **pork**
 
 ## Notes
 

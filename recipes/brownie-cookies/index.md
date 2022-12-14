@@ -71,15 +71,15 @@ _Note: does not need to be refridgerated before baking_
 ### Bake
 
 1. Line baking sheet with parchment paper
-1. Drop heaping T of batter (35g) at least 2 in apart
-    - Cookies will spread to 3-4 in wide
+1. Drop **heaping T of batter** (35g) at least 2in apart
+    - Cookies will spread to 3-4in wide
 1. 8-12 min at 350°F
     - Until puffed and cracked and edges are set
     - Rotate halfway through
 
 ### Post-bake
 
-1. Optionally sprinkle salt on cookies
+1. Optionally sprinkle **salt** on **cookies**
 1. ~10 minutes - cool completely on pan
 
 ## Notes

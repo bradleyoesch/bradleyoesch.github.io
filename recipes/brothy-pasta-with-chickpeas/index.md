@@ -37,8 +37,9 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 1. Drain, rinse **15 oz can chickpeas**
 1. Crush by hand **1 cup whole peeled tomatoes**
-1. Finely chop **1 small onion**
-1. Finely chop **2 T parsely**
+1. Finely chop
+    - **1 small onion**
+    - **2 T parsely**
 1. Thinly slice **3 cloves garlic**
 1. Finely grate **3 T parmesan**
 
@@ -47,10 +48,17 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 _One pot recipe, all in large saucepan._
 
 1. Heat **3 T oil** on medium
-1. Cook 5 min - **1 finely chopped onion**, season with salt, stirr occasionally
-1. Cook 5-6 min - **3 thinly sliced garlic cloves**, until just beginning to brown around edges
-1. Cook 30 sec - **1 sprig rosemary**, **¼ red pepper flakes**
-1. Cook 6-8 minutes - **15 oz drained, rinsed chickpeas**, **1 cup crushed tomatoes**, until tomatoes are slightly thickened
+1. Cook 5 min, stirring occasionally
+    - **1 finely chopped onion**
+    - Season with **salt**
+1. Cook 5-6 min, until just beginning to brown around edges
+    - **3 thinly sliced garlic cloves**
+1. Cook 30 sec
+    - **1 sprig rosemary**
+    - **¼ red pepper flakes**
+1. Cook 6-8 minutes, until tomatoes slightly thickened
+    - **15 oz drained, rinsed chickpeas**
+    - **1 cup crushed tomatoes**
 1. Increase to medium-high
     - **6 oz pasta**
     - **4 cups water**
@@ -63,7 +71,7 @@ _One pot recipe, all in large saucepan._
 
 ### Serving
 
-1. Top with oil, parmeson, black pepper
+1. Top with **oil**, **parmeson**, **black pepper**
 
 ### Storage
 

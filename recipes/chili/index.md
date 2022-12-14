@@ -65,8 +65,8 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 1. Mash into paste, alternating cutting and mashing with side of knife
     - **1 anchovy fillet**
     - Pinch of salt
-1. In medium bowl
-    1. Crush **1 28oz can whole peeled tomatoes** by hand, saving all juices
+1. In medium bowl, crush by hand
+    1. **1 28oz can whole peeled tomatoes**
 1. In small bowl
     - **1 cup unsalted chicken stock**
     - **2 T fish sauce**
@@ -86,27 +86,26 @@ _<sup>Image source: <https://seriouseats.com></sup>_
     1. Cook until browned
         1. **2 pounds ground beef**
         1. Season with **almost too much salt**
-    1. Remove beef and set aside
-    1. Pour fat drippings into plastic container, adding some back to pan as needed
+    1. Remove **beef** and set aside
+    1. Pour **fat drippings** into plastic container, adding some back to pan as needed
 1. Reduce heat to medium-high
     1. 5-6 min - cook
-        - 1 diced medium yellow onion
+        - **1 diced medium yellow onion**
     1. 1 min - cook
-        - 4 minced cloves garlic
-        - Vegetable oil if needed
+        - **4 minced cloves garlic**
     1. 1 min - cook until darkened
         - **1 T tomato paste**
 1. Reduce heat to medium
     1. 1 min - mix and cook
-        - Anchovy paste
-        - Diced jalapeño
+        - **Anchovy paste**
+        - **Diced jalapeño**
     1. 30 sec - mix and cook (will be very dry)
-        - Spice mixture
+        - **Spice mixture**
     1. Deglaze with some of chicken stock mixture
     1. Mix (will be very full)
-        - Rest of chicken stock mixture
-        - Crushed tomatoes
-        - Browned beef
+        - **Rest of chicken stock mixture**
+        - **Crushed tomatoes**
+        - **Browned beef**
         - **1 dried bay leaf**
 1. Crank heat to high until simmering
 1. Reduce heat to low
@@ -117,9 +116,9 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 
 ### Post-cook
 
-1. Discard bay leaf
+1. Discard **bay leaf**
 1. Add **1 T brown sugar**
-1. Season with salt, **freshly ground black pepper**, and other spices to taste
+1. Season with **salt**, **freshly ground black pepper**, and **any other spices** to taste
 
 ## Notes
 

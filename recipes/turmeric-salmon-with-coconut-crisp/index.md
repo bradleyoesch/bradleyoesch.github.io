@@ -43,7 +43,7 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Special Equipment
 
-- 3 small bowls
+- 4 small bowls
 - Cast iron skillet
 - Small skillet
 
@@ -55,16 +55,20 @@ _Prepare rice or sides if desired_
 
 1. Preheat oven to 300°F
 1. Remove ribs and stems from **2 bunches swiss chard**
-    1. Finely chop ribs and stems
-        1. Place in small bowl
-    1. Coarsely chop leaves
-        1. Place in separate small bowl
-1. Peel **1 3" piece ginger**
-    1. Thinly slice ginger lengthwise
-1. Thinly slice
-    - **1 large shallot**
-    - **3 cloves garlic**
-    - **½ serrano chile**
+    1. In small bowl
+        1. Finely chop
+            - **ribs and stems**
+        1. Thinly slice
+            - **1 3" piece ginger**
+            - **1 large shallot**
+    1. In separate small bowl
+        1. Coarsely chop **leaves**
+1. In small bowl
+    1. Thinly slice
+        - **3 cloves garlic**
+        - **½ serrano chile**
+    1. Add
+        - **½ cup unsweetened coconut flakes**
 1. In small bowl
     - **2 T extra-virgin olive oil**
     - **½ tsp ground turmeric**
@@ -73,16 +77,14 @@ _Prepare rice or sides if desired_
 
 1. In cast iron skillet over medium-high
     1. 3 min - cook until shallot is softened but not browned
-        - Chopped swiss chard ribs and stems
-        - Thinly sliced shallot
-        - Thinly sliced ginger
+        - **Swiss chard/ginger/shallot mixture**
     1. 3 min - cook until leaves partly wilted
-        - Chopped swiss chard leaves
+        - **Chopped swiss chard leaves**
     1. Remove from heat
-    1. Season with salt
-    1. Add **24oz skinless salmon fillet** on top of greens
-        - Season with salt
-        - Coat with turmeric/oil mixutre
+    1. Season with **salt**
+    1. Add **24oz skinless salmon fillet** on top of **greens**
+        - Season with **salt**
+        - Coat with **turmeric/oil mixutre**
 
 ### Bake salmon
 
@@ -96,16 +98,14 @@ _Prepare rice or sides if desired_
 1. In small skillet over medium
     1. 5 min - cook, stirring often until garlic and coconut turn golden
         - **1 T extra-virgin olive oil**
-        - 3 thinly sliced cloves garlc
-        - ½ thinly sliced serrano chile
-        - ½ cup unsweetened coconut flakes
-    1. Transfer to small bowl and season lightly with salt
+        - **Garlic/chile/coconut flakes mixture**
+    1. Transfer to small bowl and season lightly with **salt**
 
 ### Post-bake/cook
 
-1. Season salmon with **freshly ground black pepper**
-1. Let salmon rest for 5 minutes
-1. Serve with coconut crisp for topping
+1. Season **salmon** with **freshly ground black pepper**
+1. Let **salmon** rest for 5 minutes
+1. Top with **coconut crisp**
 
 ## Notes
 

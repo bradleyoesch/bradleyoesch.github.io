@@ -58,7 +58,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 ### Prepare
 
 1. Blot **6 T (86g) pumpkin puree** with a clean towel or paper towels.
-    - You should be left with ⅓ cup (75g) for the recipe.
+    - You should be left with **⅓ cup (75g) puree** for the recipe.
 
 #### Cookie dough
 
@@ -69,13 +69,13 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     - **½ tsp baking powder**
     - **¼ tsp salt**
 1. In large bowl
-    1. Beat on high, 2 min
+    1. 2 min - beat on high
         - **¾ cup (170g) unsalted butter**
         - **¾ cup (150g) granulated sugar**
-    1. Beat on high, 1 min
+    1. 1 min - beat on high
         - **⅓ cup (75g) blotted pumpkin puree**
         - **1½ tsp vanilla extract**
-1. Add dries to wets
+1. Add **dry ingredients** to **wet ingredients**
     1. Beat on low
 
 #### Roll up
@@ -85,13 +85,13 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     - **2 tsp pumpkin pie spice**
     - **1 tsp ground cinnamon**
 1. On floured work surface
-    1. Divide dough in half
+    1. Divide **dough** in half
     1. Pat each into small rectangle
     1. Roll out each into 10x8" rectangle ¼" thick
 1. Spread
-    1. Half of **3 T (43g) unsalted butter** on each
+    1. **Half of 3 T (43g) unsalted butter** on each
 1. Sprinkle
-    1. Half of brown sugar / spice mixture on each
+    1. **Half of brown sugar / spice mixture** on each
     1. Pat down with back of a spoon
 1. Slowly, tightly roll up each into a 10" log
 

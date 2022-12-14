@@ -39,7 +39,7 @@ _<sup>Image source: <https://example.com></sup>_
 
 1. Rinse and drain **16oz can of sweet corn**
 1. In cast iron skillet over high heat
-    1. Add olive oil
+    1. **Drained sweet corn**
     1. 5-7 min - cook until charred, stirring once or twice
     1. Set aside to cool
 1. Dice
@@ -51,11 +51,11 @@ _<sup>Image source: <https://example.com></sup>_
     - **⅛ cup cilantro**
 1. In large bowl
     1. Mix
-        - ½ diced red bell pepper
-        - 1 diced roma tomato
-        - ¼ diced red onion
-        - 1 diced jalepeño
-        - ⅛ cup minced cilantro
+        - **½ diced red bell pepper**
+        - **1 diced roma tomato**
+        - **¼ diced red onion**
+        - **1 diced jalepeño**
+        - **⅛ cup minced cilantro**
         - **1 T lime juice**
         - **½ T apple cider vinegar**
         - **½ tsp ground cumin**
@@ -63,8 +63,8 @@ _<sup>Image source: <https://example.com></sup>_
         - **¼ tsp garlic powder**
         - **¼ tsp smoked paprika**
         - **¼ tsp black pepper**
-    1. Mix in charred corn once cooled
-1. Season with additional lime juice and/or salt and pepper to taste
+    1. Mix in **charred corn** once cooled
+1. Season with additional **lime juice** and/or **salt** and **freshly ground black pepper** to taste
 
 ## Notes
 

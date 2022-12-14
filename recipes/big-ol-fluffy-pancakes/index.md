@@ -31,7 +31,7 @@ _<sup>Image source: <https://vice.com></sup>_
 #### Cooking
 
 - Some butter
-- Little oil
+- A little oil
 
 ### Special Equipment
 
@@ -56,29 +56,30 @@ _<sup>Image source: <https://vice.com></sup>_
     - **¼ tsp cinnamon**
     - **Pinch of salt**
 1. In medium and small bowl, separate **2 eggs**
-    1. Add egg whites to medium bowl
+    1. Add to medium bowl
+        1. **Egg whites**
         1. Beat till fluffy
         1. Add **1 cup buttermilk**
         1. Add **1 tsp vanilla extract**
+        1. Mix
     1. Add egg yolks to small bowl
         1. Whisk to combine
         1. Add **½ T granulated sugar**
         1. Slowly add **1 T melted, cooled butter**
-1. To egg white mixture in medium bowl
-    1. Slowly add yolk mixture
-    1. Slowly add flour mixture, mix until just combined
+1. To **egg white mixture** in medium bowl
+    1. Slowly add **yolk mixture**
+    1. Slowly add **flour mixture**, mix until just combined
 1. Refridgerate for 10 minutes
 
 ### Cook
 
 1. Heat nonstick pan over medium-high heat
-1. Add **some butter** and a **little oil** to the pan, let melt
-1. Spoon batter into pan and let sit
-1. After a bit, add some more butter and swirl around edges of pancakes
-    - This adds a crispy edge
+1. Add **some butter** and **a little oil** to the pan, let melt
+1. Spoon **batter** into pan and let sit
+1. After a bit, add **some more butter** and swirl around pancakes to crisp up the edges
 1. When you see bubbles in middle, flip
 1. Remove and place in warm oven when you feel like it
-1. Repeat as necessary, adding mixins like blueberries or chocolate chips if you want
+1. Repeat as necessary, adding mixins like **blueberries** or **chocolate chips** if you want
 
 ## Notes
 

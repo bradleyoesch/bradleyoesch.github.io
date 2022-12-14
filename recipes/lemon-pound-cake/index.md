@@ -52,7 +52,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 1. Preheat oven to 350°F
 
 
-1. Spray loaf pan with vegetable oil
+1. Spray loaf pan with **vegetable oil**
 1. Line longer side of loaf pan with parchment paper
 
 ### Prepare cake
@@ -70,16 +70,16 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     1. Beat on slow, one at a time
         - **3 large eggs, room temperature**
     1. Beat on medium until combined
-        - **¼ cup (60g) sour cream (or plain greek yogurt), room temperature**
-        - **3 T (45ml) freshly squeezed lemon juice (about 1 lemon)**
+        - **¼ cup (60g) sour cream (or plain greek yogurt)**
+        - **3 T (45ml) freshly squeezed lemon juice**
         - **Zest from 1½ lemon**
         - **1 tsp vanilla extract**
-1. Add dry ingredients into wet ingredients
+1. Add **dry ingredients** into **wet ingredients**
     1. Beat on low until just combined
         - Avoid overmixing!
 
 ### Bake
-1. Spread batter into prepared loaf pan
+1. Spread **batter** into prepared loaf pan
 1. 45-60 min - bake
     - Tent with aluminum foil halfway through
 
@@ -95,8 +95,8 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 ### Post-bake
 
 1. 1 hour - cool on wire rack
-1. Remove cake from loaf pan and cool completely on wire rack
-1. Pour icing over cake
+1. Remove **cake** from loaf pan and cool completely on wire rack
+1. Pour **icing** over **cake**
 
 ## Notes
 

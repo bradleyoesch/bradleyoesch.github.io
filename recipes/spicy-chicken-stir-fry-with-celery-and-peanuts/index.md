@@ -78,7 +78,7 @@ _Cook rice or sides before prepping._
     - **1 tsp sugar**
     - **¼ cup water**
 1. Combine in small bowl
-    - **4 garlic cloves** - smash, peel, finely chop
+    - **4 garlic cloves** - finely chop
     - **2" piece ginger** - finely chop (with skins, doesn't matter)
 1. Combine in medium bowl
     1. **6 scallions** - trim roots, slice crosswise into ½" pieces
@@ -93,20 +93,22 @@ _Cook rice or sides before prepping._
 
 **Fry nuts**
 
-1. Combine in cast-iron skillet
-   1. **⅓ cup vegetable oil**
-   1. **¾ cup roasted, salted peanuts**
-1. 5-7 minutes - cook over medium, stirring often, until a few shades darker and fragrent
-1. Remove from heat with slotted spoon, transfer to small bowl or plate
+1. In cast-iron skillet over medium
+    1. Combine
+        - **⅓ cup vegetable oil**
+        - **¾ cup roasted, salted peanuts**
+    1. 5-7 minutes - cook, stirring often, until a few shades darker and fragrent
+    1. Remove from heat with slotted spoon, transfer to small bowl or plate
 
 **Stir fry**
 
-1. Medium-high heat - add oil to skillet
-1. 30 sec - cook **garlic/ginger combo**, stirring constantly until fragrant but not yet browned
-1. 3 min - add **chicken**, stir until no longer pink on outsides (will be undercooked)
-1. 2 min - add **scallions, celery, dates**, stirring often, until scallions are bright green and slightly softened
-   - Celery should be quite crisp and crunchy
-1. 2 min - add **reserved sauce** (stir first to reincorporate cornstarch) until sauce thickens and turns glossy
+1. In cast-iron skillet over medium-high
+    1. Add **oil**
+    1. 30 sec - cook **garlic/ginger combo**, stirring constantly until fragrant but not yet browned
+    1. 3 min - add **½" pieces chicken**, stir until no longer pink on outsides (will be undercooked)
+    1. 2 min - add **scallions, celery, dates**, stirring often, until scallions are bright green and slightly softened
+       - Celery should be quite crisp and crunchy
+    1. 2 min - add **reserved sauce** (stir first to reincorporate cornstarch) until sauce thickens and turns glossy
 
 ### Postpare
 
