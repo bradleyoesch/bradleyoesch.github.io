@@ -1,17 +1,17 @@
 # Recipes
 
-## Breakfast
+### Breakfast
 
 - [Big Ol Fluffy Pancakes](./big-ol-fluffy-pancakes)
 
-## Marinades
+### Marinades
 
 - [Anchovy Yogurt Herb](./marinade-anchovy-yogurt-herb)
 - [Cilantro Lime](./marinade-cilantro-lime)
 - [Fajita](./marinade-fajita)
 - [Lemon Yogurt](./marinade-lemon-yogurt)
 
-## Meals
+### Meals
 
 - [Black Pepper Beef and Celery Stir-fry](./black-pepper-beef-celery-stir-fry)
 - [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
@@ -20,11 +20,11 @@
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Turmeric Salmon with Coconut Crisp](./turmeric-salmon-with-coconut-crisp)
 
-## Sides
+### Sides
 
 - [Corn Salsa](./corn-salsa)
 
-## Desserts
+### Desserts
 
 - [Brownie Cookies](./brownie-cookies)
 - [Lemon Pound Cake](./lemon-pound-cake)
