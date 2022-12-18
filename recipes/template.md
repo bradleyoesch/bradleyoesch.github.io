@@ -15,6 +15,7 @@ _<sup>Image source: <https://example.com></sup>_
 
 ### Ingredients
 
+- ⅛
 - ¼
 - ⅓
 - ½
