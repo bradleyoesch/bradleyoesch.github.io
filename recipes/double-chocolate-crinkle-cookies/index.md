@@ -16,15 +16,15 @@ _<sup>Image source: <https://example.com></sup>_
 
 ### Ingredients
 
+- 1 cup (125g) all-purpose flour
+- ½ cup + 2 Tablespoons (50g) unsweetened natural cocoa powder
+- 1 tsp baking soda
+- ⅛ tsp salt
 - ½ cup (1 stick; 115g) unsalted butter, room temperature
 - ½ cup (100g) granulated sugar
 - ½ cup (100g) packed light or dark brown sugar
 - 1 large egg, room temperature
 - 1 tsp pure vanilla extract
-- 1 cup (125g) all-purpose flour
-- ½ cup + 2 Tablespoons (50g) unsweetened natural cocoa powder
-- 1 tsp baking soda
-- ⅛ tsp salt
 - 1 cup (180g) mini or regular size semi-sweet chocolate chips
 - 3 T (35g) granulated sugar, for rolling
 - 1 cup (120g) confectioners’ sugar, for rolling
@@ -42,6 +42,11 @@ _<sup>Image source: <https://example.com></sup>_
 ### Prepare
 
 1. In medium bowl
+    - **1 cup (125g) all-purpose flour**
+    - **½ cup + 2 Tablespoons (50g) unsweetened natural cocoa powder**
+    - **1 tsp baking soda**
+    - **⅛ tsp salt**
+1. In medium bowl
     1. 2-3 min - beat on med-high until fluffy and light in color
         - **½ cup (1 stick; 115g) unsalted butter, room temperature**
         - **½ cup (100g) granulated sugar**
@@ -49,14 +54,10 @@ _<sup>Image source: <https://example.com></sup>_
     1. Beat on high
         - **1 large egg, room temperature**
         - **1 tsp pure vanilla extract**
-1. In medium bowl
-    - **1 cup (125g) all-purpose flour**
-    - **½ cup + 2 Tablespoons (50g) unsweetened natural cocoa powder**
-    - **1 tsp baking soda**
-    - **⅛ tsp salt**
 1. On low
     1. Add **dries** to **wets**
-1. On low
+    1. Dough will be very sticky
+1. Hand mix
     - **1 cup (180g) mini or regular size semi-sweet chocolate chips**
 
 ### Chill
