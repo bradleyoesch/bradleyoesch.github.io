@@ -27,6 +27,7 @@
 ### Desserts
 
 - [Brownie Cookies](./brownie-cookies)
+- [Double Chocolate Crinkle Cookies](./double-chocolate-crinkle-cookies)
 - [Lemon Pound Cake](./lemon-pound-cake)
 - [Pecan Pie Bars](./pecan-pie-bars)
 - [Pumpkin Spice Roll Cookies](./pumpkin-spice-roll-cookies)
