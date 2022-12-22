@@ -74,8 +74,9 @@ _Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnigh
 ### Serving
 
 1. Preheat broiler to high with oven rack 4 inches below heating element
-1. ~6 minutes - broil pork until brown and crisp on surface
-1. ~6 more minutes - stir, broil again until crisp
+1. ~6 min - broil pork until brown and crisp on surface
+1. Stir
+1. ~6 min - broil again until crisp
 
 Serve on tortilla with onions + cilantro, avocado, tomatillo salsa, cotija cheese.
 

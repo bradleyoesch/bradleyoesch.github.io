@@ -1,7 +1,8 @@
 # Pumpkin Spice Roll Cookies
 
-- Total time: 3 hours 25 minutes
-    - Prep time: 3 hours
+- Total time: 3 hours 10 minutes
+    - Prep time: 45 minutes
+    - Chill time: 2 hours
     - Cook time: 15 minutes
     - Post-cook time: 10 minutes
 - Yield: 48 cookies
@@ -97,9 +98,8 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 #### Chill
 
-1. Wrap in plastic wrap
-1. 2 hours to 3 days - chill in refridgerator
-    1. Every 15 minutes for first hour, rotate 90 degrees
+1. 2 hours to 3 days - cover and refridgerate
+    1. Every 15 min for first hour, rotate 90 degrees
 
 #### Slice
 
@@ -117,12 +117,12 @@ _Preheat oven to 350°F_
 
 1. Line baking sheet with parchment paper
 1. Arrange cookies about 2" apart
-1. 13-15 min at 350°F
+1. 13-15 min - bake at 350°F
     - Until lightly browned around the bottom
 
 ### Post-bake
 
-1. ~10 minutes - cool completely on pan
+1. ~10 min - cool completely on pan
 
 #### Icing
 

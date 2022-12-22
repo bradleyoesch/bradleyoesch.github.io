@@ -2,7 +2,7 @@
 
 - Total time: 2 hours 20 minutes
     - Prep time: 20 minutes
-    - Cook time: 60 min
+    - Cook time: 60 minutes
     - Post-cook time: 60 minutes
 - Yield: 1 9x5 loaf
 - Author: [Sally's Baking Addiction](https://sallysbakingaddiction.com/iced-lemon-pound-cake)
@@ -79,8 +79,9 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
         - Avoid overmixing!
 
 ### Bake
+
 1. Spread **batter** into prepared loaf pan
-1. 45-60 min - bake
+1. 45-60 min - bake at 350°F
     - Tent with aluminum foil halfway through
 
 ### Prepare icing

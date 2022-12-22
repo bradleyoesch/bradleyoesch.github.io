@@ -104,7 +104,7 @@ _Prepare rice or sides if desired_
 ### Post-bake/cook
 
 1. Season **salmon** with **freshly ground black pepper**
-1. Let **salmon** rest for 5 minutes
+1. 5 min - let rest
 1. Top with **coconut crisp**
 
 ## Notes

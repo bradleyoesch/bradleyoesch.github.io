@@ -74,7 +74,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 1. Preheat oven to 350°F
 1. Line baking sheet with parchment paper
 1. Remove **cookie dough** from refridgerator
-    1. _If dough chilled longer than 2 hours, let sit at room temperature for at least 30 min_
+    1. _If dough chilled longer than 2 hours, let rest at room temperature for at least 30 min_
 1. In small bowl
     - **⅓ cup (65g) granulated or coarse sugar**
 1. Scoop dough into 1 T balls

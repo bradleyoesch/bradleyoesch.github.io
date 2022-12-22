@@ -76,7 +76,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
         - **½ cup (120ml) maple syrup**
         - **2 T heavy cream**
     1. 3 min - boil
-        1. At minute 2, temper **eggs** with **½ cup of boiling butter/sugar mixture**
+        1. 2 min in - temper **eggs** with **½ cup of boiling butter/sugar mixture**
     1. Remove from heat
     1. Slowly stream into saucepan
         - **Tempered eggs**
@@ -86,7 +86,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 ### Bake
 
-1. 25-30 minutes - bake at 350°F
+1. 25-30 min - bake at 350°F
     - Toothpick should come out pretty clean
 
 ### Post-bake

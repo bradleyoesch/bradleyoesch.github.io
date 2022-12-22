@@ -66,7 +66,7 @@ _<sup>Image source: <https://example.com></sup>_
 ### Pre-bake
 
 1. 10 min - rest **cookie dough** at room temperature
-    - _If dough chilled longer than 3 hours, let sit at room temperature for at least 20 min_
+    - _If dough chilled longer than 3 hours, let rest at room temperature for at least 20 min_
 1. Preheat oven to 350°F
 1. Line baking sheet with parchment paper
 1. In small bowl
@@ -83,7 +83,7 @@ _<sup>Image source: <https://example.com></sup>_
 1. 11-12 min - bake at 350°F
     - Until edges appear set
     - Centers look soft
-    - _If they haven't spread by minute 9, remove from the oven and lightly bang baking sheet on counter 2-3 times_
+    - _If they haven't spread 9 min in, remove from the oven and lightly bang baking sheet on counter 2-3 times_
 
 ### Post-bake
 

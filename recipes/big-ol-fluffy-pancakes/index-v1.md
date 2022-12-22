@@ -69,13 +69,13 @@ _<sup>Image source: <https://vice.com></sup>_
 1. To **egg white mixture** in medium bowl
     1. Slowly add **yolk mixture**
     1. Slowly add **flour mixture**, mix until just combined
-1. Refridgerate for 10 minutes
+1. Refridgerate for 10 min
 
 ### Cook
 
 1. Heat nonstick pan over medium-high heat
 1. Add **some butter** and **a little oil** to the pan, let melt
-1. Spoon **batter** into pan and let sit
+1. Spoon **batter** into pan and let rest
 1. After a bit, add **some more butter** and swirl around pancakes to crisp up the edges
 1. When you see bubbles in middle, flip
 1. Remove and place in warm oven when you feel like it

@@ -89,11 +89,11 @@ _<sup>Image source: <https://seriouseats.com></sup>_
     1. Remove **beef** and set aside
     1. Pour **fat drippings** into plastic container, adding some back to pan as needed
 1. Reduce heat to medium-high
-    1. 5-6 min - cook
+    1. 5-6 min
         - **1 diced medium yellow onion**
-    1. 1 min - cook
+    1. 1 min
         - **4 minced cloves garlic**
-    1. 1 min - cook until darkened
+    1. 1 min - until darkened
         - **1 T tomato paste**
 1. Reduce heat to medium
     1. 1 min - mix and cook

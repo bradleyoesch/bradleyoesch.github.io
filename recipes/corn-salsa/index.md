@@ -40,7 +40,7 @@ _<sup>Image source: <https://example.com></sup>_
 1. Rinse and drain **16oz can of sweet corn**
 1. In cast iron skillet over high heat
     1. **Drained sweet corn**
-    1. 5-7 min - cook until charred, stirring once or twice
+    1. 5-7 min - until charred, stirring once or twice
     1. Set aside to cool
 1. Dice
     - **1 roma tomato**

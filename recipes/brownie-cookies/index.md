@@ -2,9 +2,10 @@
 
 - Total time: 45 minutes
     - Prep time: 30 minutes
-    - Cook time: 12 min
+    - Chill time: 0 minutes
+    - Cook time: 12 minutes
     - Post-cook time: 10 minutes
-- Yield: 16 3-4in cookies
+- Yield: 16 3-4" cookies
 - Author: [Sarah Kieffer](https://www.thevanillabeanblog.com/100-cookies/)
 
 ![](./hero.jpg){:width="600px"}
@@ -48,11 +49,11 @@ _Note: does not need to be refridgerated before baking_
         - **¾ cup + 1 T (116g) flour**
         - **¾ tsp baking powder**
 1. In large bowl _(meanwhile melt butter/chocolate, see below)_
-    1. Beat med-high 6-8 min till pale, 2x volume
+    1. 6-8 min - beat on med-high till pale, 2x volume
         - **3 eggs**
         - **1¼ cup (250g) sugar**
         - **¾ tsp salt**
-    1. Beat low speed
+    1. Beat on low
         - **1 T canola oil**
         - **1 tsp vanilla**
 1. In small saucepan
@@ -66,21 +67,24 @@ _Note: does not need to be refridgerated before baking_
 
 ### Rest
 
-1. Let sit at room temp for 5 minutes
+1. 5 min - let rest at room temp
+
+### Pre-bake
+
+1. Line baking sheet with parchment paper
+1. Drop **heaping T of batter** (35g) at least 2" apart
+    - Cookies will spread to 3-4" wide
 
 ### Bake
 
-1. Line baking sheet with parchment paper
-1. Drop **heaping T of batter** (35g) at least 2in apart
-    - Cookies will spread to 3-4in wide
-1. 8-12 min at 350°F
+1. 8-12 min - bake at 350°F
     - Until puffed and cracked and edges are set
     - Rotate halfway through
 
 ### Post-bake
 
 1. Optionally sprinkle **salt** on **cookies**
-1. ~10 minutes - cool completely on pan
+1. 10 min - cool completely on pan
 
 ## Notes
 

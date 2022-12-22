@@ -30,10 +30,10 @@ _<sup>Image source: <https://vice.com></sup>_
 
 ##### Substitutes
 
-- 1ish cup Buttermilk
-    - ¾ish cup milk
+- ~1 cup Buttermilk
+    - ~¾ cup milk
     - 2 T white or apple cider vinegar
-    - (let sit for 10 minutes)
+    - (let rest for 10 min)
 
 #### Cooking
 
@@ -69,13 +69,16 @@ _<sup>Image source: <https://vice.com></sup>_
         1. Add **1½ tsp vanilla extract**
 1. To **flour mixture** in medium bowl
     1. Add **egg mixture**, mix until _just_ combined
-1. Refridgerate for 10 minutes
+
+# Chill
+
+1. Refridgerate for 10 min
 
 ### Cook
 
 1. Heat nonstick pan over medium-high heat
 1. Add **some butter** and **a little oil** to the pan, let melt
-1. Spoon **batter** into pan and let sit
+1. Spoon **batter** into pan and let rest
 1. After a bit, add **some more butter** and swirl around pancakes to crisp up the edges
 1. When you see bubbles in middle, flip
 1. Remove and place in warm oven when you feel like it

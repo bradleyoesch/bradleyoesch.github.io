@@ -48,15 +48,15 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 _One pot recipe, all in large saucepan._
 
 1. Heat **3 T oil** on medium
-1. Cook 5 min, stirring occasionally
+1. 5 min - stirring occasionally
     - **1 finely chopped onion**
     - Season with **salt**
-1. Cook 5-6 min, until just beginning to brown around edges
+1. 5-6 min - until just beginning to brown around edges
     - **3 thinly sliced garlic cloves**
-1. Cook 30 sec
+1. 30 sec
     - **1 sprig rosemary**
     - **¼ red pepper flakes**
-1. Cook 6-8 minutes, until tomatoes slightly thickened
+1. 6-8 min - until tomatoes slightly thickened
     - **15 oz drained, rinsed chickpeas**
     - **1 cup crushed tomatoes**
 1. Increase to medium-high

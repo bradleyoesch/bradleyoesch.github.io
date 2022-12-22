@@ -1,9 +1,9 @@
 # Spicy Chicken Stir-Fry With Celery and Peanuts
 
-- Total time: 50 min
-    - Prep time: 20 min
-    - Cook time: 25 min
-    - Post-cook time: 5 min
+- Total time: 50 minutes
+    - Prep time: 20 minutes
+    - Cook time: 25 minutes
+    - Post-cook time: 5 minutes
 - Yield: 4 servings
 - Author: [Molly Baz](https://www.bonappetit.com/recipe/spicy-chicken-stir-fry-with-celery-and-peanuts)
 
@@ -97,18 +97,24 @@ _Cook rice or sides before prepping._
     1. Combine
         - **⅓ cup vegetable oil**
         - **¾ cup roasted, salted peanuts**
-    1. 5-7 minutes - cook, stirring often, until a few shades darker and fragrent
-    1. Remove from heat with slotted spoon, transfer to small bowl or plate
+    1. 5-7 min - stirring often
+        - Until a few shades darker and fragrent
+    1. Transfer to small bowl or plate with slotted spoon
+
 
 **Stir fry**
 
 1. In cast-iron skillet over medium-high
     1. Add **oil**
-    1. 30 sec - cook **garlic/ginger combo**, stirring constantly until fragrant but not yet browned
-    1. 3 min - add **½" pieces chicken**, stir until no longer pink on outsides (will be undercooked)
-    1. 2 min - add **scallions, celery, dates**, stirring often, until scallions are bright green and slightly softened
-       - Celery should be quite crisp and crunchy
-    1. 2 min - add **reserved sauce** (stir first to reincorporate cornstarch) until sauce thickens and turns glossy
+    1. 30 sec - stirring constantly until fragrant but not yet browned
+        - **Garlic/ginger combo**
+    1. 3 min - stir until no longer pink on outsides (will be undercooked)
+        - **½" pieces chicken**
+    1. 2 min - stirring often, until scallions are bright green and slightly softened
+        - **Scallions, celery, dates**
+        - Celery should be quite crisp and crunchy
+    1. 2 min - until sauce thickens and turns glossy
+        - **Reserved sauce** (stir first to reincorporate cornstarch)
 
 ### Postpare
 
