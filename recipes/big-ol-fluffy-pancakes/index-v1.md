@@ -4,7 +4,7 @@
     - Prep time: 20 minutes
     - Cook time: 15 minutes
 - Yield: 4 servings
-- Modified from: [Matty Matheson](https://www.youtube.com/watch?v=2iWUUcW08ac), [Frank Proto](https://youtu.be/vkcHmpKxFwg)
+- Modified from: [Matty Matheson](https://www.youtube.com/watch?v=2iWUUcW08ac)
 
 ![](./hero.jpg){:width="600px"}
 <br />
@@ -16,24 +16,17 @@ _<sup>Image source: <https://vice.com></sup>_
 
 #### Batter
 
+- 1 T butter
 - 1 cup all-purpose flour
 - 1½ T granulated sugar
 - ½ tsp baking powder
 - ½ tsp baking soda
 - ¼ tsp cinnamon
 - Pinch of salt
-- 1 egg
+- 2 eggs
+- 1 cup buttermilk
+- 1 tsp vanilla extract
 - ½ T granulated sugar
-- 1½ T oil
-- ¾ - 1 cup buttermilk
-- 1½ tsp vanilla extract
-
-##### Substitutes
-
-- 1ish cup Buttermilk
-    - ¾ish cup milk
-    - 2 T white or apple cider vinegar
-    - (let sit for 10 minutes)
 
 #### Cooking
 
@@ -42,7 +35,8 @@ _<sup>Image source: <https://vice.com></sup>_
 
 ### Special Equipment
 
-- 2 medium bowls
+- 3 small bowls
+- 1 medium bowl
 - Small strainer/sifter
 - Whisk
 - Hand mixer
@@ -52,23 +46,29 @@ _<sup>Image source: <https://vice.com></sup>_
 
 ### Prepare
 
-1. In medium bowl
+1. In small bowl
+    1. Melt **1 T butter**, let cool
+1. In small bowl
     - Sift **1 cup all-purpose flour**
     - **1½ T granulated sugar**
     - **½ tsp baking powder**
     - **½ tsp baking soda**
     - **¼ tsp cinnamon**
     - **Pinch of salt**
-1. In medium bowl
-    1. Mix
-        1. **1 egg**
-        1. **½ T granulated sugar**
-        1. Slowly add **1½ T oil**
-    1. Mix
+1. In medium and small bowl, separate **2 eggs**
+    1. Add to medium bowl
+        1. **Egg whites**
+        1. Beat till fluffy
         1. Add **1 cup buttermilk**
-        1. Add **1½ tsp vanilla extract**
-1. To **flour mixture** in medium bowl
-    1. Add **egg mixture**, mix until _just_ combined
+        1. Add **1 tsp vanilla extract**
+        1. Mix
+    1. Add egg yolks to small bowl
+        1. Whisk to combine
+        1. Add **½ T granulated sugar**
+        1. Slowly add **1 T melted, cooled butter**
+1. To **egg white mixture** in medium bowl
+    1. Slowly add **yolk mixture**
+    1. Slowly add **flour mixture**, mix until just combined
 1. Refridgerate for 10 minutes
 
 ### Cook
