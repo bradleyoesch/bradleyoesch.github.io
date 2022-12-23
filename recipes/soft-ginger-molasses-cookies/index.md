@@ -16,27 +16,27 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 ### Ingredients
 
-- 2¼ cups (280g) all-purpose flour
-- 1½ tsp baking soda
-- 2 tsp ground ginger
-- 1½ tsp ground cinnamon
-- ¼ tsp ground cloves
-- ¼ tsp nutmeg
-- ¼ tsp salt
-- ¾ cup (170g) unsalted butter, room temperature
-- ½ cup (100g) packed light or dark brown sugar
-- ¼ cup (50g) granulated sugar
-- ⅓ cup (80ml) unsulphured or dark molasses
-- 1 large egg, room temperature
-- 2 tsp pure vanilla extract
-- ⅓ cup (65g) granulated or coarse sugar, for rolling
+- 2¼ cups (280g) **all-purpose flour**
+- 1½ tsp **baking soda**
+- 2 tsp **ground ginger**
+- 1½ tsp **ground cinnamon**
+- ¼ tsp **ground cloves**
+- ¼ tsp **ground nutmeg**
+- ¼ tsp **kosher salt**
+- ¾ cup (1½ stick; 170g) **unsalted butter**, room temperature
+- ½ cup (100g) packed light or dark **brown sugar**
+- ¼ cup (50g) **granulated sugar**
+- ⅓ cup (80ml) unsulphured or dark **molasses**
+- 1 large **egg**, room temperature
+- 2 tsp **vanilla extract**
+- ⅓ cup (65g) **granulated or coarse sugar**, for rolling
 
 ### Special Equipment
 
 - 1 small bowl
 - 1 medium bowl
 - Baking scale
-- Hand mixer
+- Hand mixer / stand mixer w/ paddle
 - Baking sheet
 - Parchment paper
 
@@ -50,18 +50,18 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     - **2 tsp ground ginger**
     - **1½ tsp ground cinnamon**
     - **¼ tsp ground cloves**
-    - **¼ tsp nutmeg**
-    - **¼ tsp salt**
+    - **¼ tsp ground nutmeg**
+    - **¼ tsp kosher salt**
 1. In medium bowl
     1. Beat on high until creamy
-        - **¾ cup (170g) unsalted butter, room temperature**
+        - **¾ cup (1½ stick; 170g) unsalted butter, room temperature**
         - **½ cup (100g) packed light or dark brown sugar**
         - **¼ cup (50g) granulated sugar**
     1. Beat on low
         - **⅓ cup (80ml) unsulphured or dark molasses**
     1. Beat on low
         - **1 large egg, room temperature**
-        - **2 tsp pure vanilla extract**
+        - **2 tsp vanilla extract**
 1. On low
     1. Add **dries** to **wets**
 

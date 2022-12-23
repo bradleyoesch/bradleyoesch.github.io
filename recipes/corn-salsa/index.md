@@ -14,19 +14,19 @@ _<sup>Image source: <https://carlsbadcravings.com></sup>_
 
 ### Ingredients
 
-- 16oz can of sweet corn
-- 1 roma tomato
-- 1 jalepeño
-- ½ red bell pepper
-- ¼ red onion
-- ⅛ cup cilantro
-- 1 T lime juice
-- ½ T apple cider vinegar
-- ½ tsp ground cumin
-- ½ tsp salt
-- ¼ tsp garlic powder
-- ¼ tsp smoked paprika
-- ¼ tsp black pepper
+- 1 16oz can **sweet corn**
+- 1 **roma tomato**
+- 1 **jalepeño**
+- ½ **red bell pepper**
+- ¼ **red onion**
+- ⅛ cup **cilantro**
+- 1 T **lime juice**
+- ½ T **apple cider vinegar**
+- ½ tsp **ground cumin**
+- ½ tsp **kosher salt**
+- ¼ tsp **garlic powder**
+- ¼ tsp **smoked paprika**
+- ¼ tsp **freshly ground black pepper**
 
 ### Special Equipment
 
@@ -37,7 +37,7 @@ _<sup>Image source: <https://carlsbadcravings.com></sup>_
 
 ### Prepare
 
-1. Rinse and drain **16oz can of sweet corn**
+1. Rinse and drain **1 16oz can sweet corn**
 1. In cast iron skillet over high heat
     1. **Drained sweet corn**
     1. 5-7 min - until charred, stirring once or twice
@@ -59,12 +59,12 @@ _<sup>Image source: <https://carlsbadcravings.com></sup>_
         - **1 T lime juice**
         - **½ T apple cider vinegar**
         - **½ tsp ground cumin**
-        - **½ tsp salt**
+        - **½ tsp kosher salt**
         - **¼ tsp garlic powder**
         - **¼ tsp smoked paprika**
         - **¼ tsp black pepper**
     1. Mix in **charred corn** once cooled
-1. Season with additional **lime juice** and/or **salt** and **freshly ground black pepper** to taste
+1. Season with additional **lime juice** and/or **kosher salt** and **freshly ground black pepper** to taste
 
 ## Notes
 

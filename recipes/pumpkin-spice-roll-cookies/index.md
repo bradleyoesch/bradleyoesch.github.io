@@ -18,29 +18,29 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 #### Cookies
 
-- 2¼ cups (281g) all-purpose flour
-- 2 tsp pumpkin pie spice<sup>[[x](https://sallysbakingaddiction.com/pumpkin-pie-spice/)]</sup>
-- ½ tsp ground cinnamon
-- ½ tsp baking powder
-- ¼ tsp salt
-- ¾ cup (170g) unsalted butter, room temperature
-- ¾ cup (150g) granulated sugar
-- 6 T (86g) pumpkin puree
-- 1½ tsp vanilla extract
+- 2¼ cups (281g) **all-purpose flour**
+- 2 tsp **pumpkin pie spice**<sup>[[x](https://sallysbakingaddiction.com/pumpkin-pie-spice/)]</sup>
+- ½ tsp **ground cinnamon**
+- ½ tsp **baking powder**
+- ¼ tsp **kosher salt**
+- ¾ cup (1½ stick; 170g) **unsalted butter**, room temperature
+- ¾ cup (150g) **granulated sugar**
+- 6 T (86g) **pumpkin puree**
+- 1½ tsp **vanilla extract**
 
 #### Filling
 
-- 3 T (43g) unsalted butter, melted, slightly cooled
-- ⅔ cup (135g) packed brown sugar
-- 2 tsp pumpkin pie spice<sup>[[x](https://sallysbakingaddiction.com/pumpkin-pie-spice/)]</sup>
-- 1 tsp ground cinnamon
+- 3 T (43g) **unsalted butter**, melted, slightly cooled
+- ⅔ cup (135g) packed light or dark **brown sugar**
+- 2 tsp **pumpkin pie spice**<sup>[[x](https://sallysbakingaddiction.com/pumpkin-pie-spice/)]</sup>
+- 1 tsp **ground cinnamon**
 
 #### Maple Icing
 
-- 2 T (30g) unsalted butter
-- ⅓ cup (80ml) pure maple syrup
-- 1 cup (112g) confectioners sugar
-- Pinch of salt
+- 2 T (30g) **unsalted butter**
+- ⅓ cup (80ml) pure **maple syrup**
+- 1 cup (112g) **confectioners' sugar**
+- Pinch of **kosher salt**
 
 ### Special Equipment
 
@@ -68,10 +68,10 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     - **2 tsp pumpkin pie spice**
     - **½ tsp ground cinnamon**
     - **½ tsp baking powder**
-    - **¼ tsp salt**
+    - **¼ tsp kosher salt**
 1. In large bowl
     1. 2 min - beat on high
-        - **¾ cup (170g) unsalted butter**
+        - **¾ cup (1½ stick; 170g) unsalted butter**
         - **¾ cup (150g) granulated sugar**
     1. 1 min - beat on high
         - **⅓ cup (75g) blotted pumpkin puree**
@@ -82,7 +82,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 #### Roll up
 
 1. In small bowl
-    - **⅔ cup (135g) packed brown sugar**
+    - **⅔ cup (135g) packed light or dark brown sugar**
     - **2 tsp pumpkin pie spice**
     - **1 tsp ground cinnamon**
 1. On floured work surface
@@ -128,15 +128,15 @@ _Preheat oven to 350°F_
 
 1. In small bowl
     1. Sift
-        - **1 cup (112g) confectioners sugar**
+        - **1 cup (112g) confectioners' sugar**
 1. In small saucepan
     1. Melt over low
         - **2 T (30g) unsalted butter**
         - **⅓ cup (80ml) pure maple syrup**
     1. Remove from heat
     1. Whisk
-        - Sifted confectioners sugar
-    1. Add pinch of salt
+        - Sifted confectioners' sugar
+    1. Add pinch of kosher salt
 
 1. Drizzle over cookies
     - Will set after about 1 hour

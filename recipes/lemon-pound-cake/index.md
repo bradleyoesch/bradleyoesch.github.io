@@ -17,22 +17,22 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 #### Cake
 
-- 1½ cups (188g) all-purpose flour
-- ½ tsp baking powder
-- ½ tsp kosher salt
-- 1 cup (230g; 2 sticks) unsalted butter, room temperature
-- 1 cup (200g) granulated sugar
-- 3 large eggs, room temperature
-- ¼ cup (60g) sour cream (or plain greek yogurt), room temperature
-- 3 T (45ml) freshly squeezed lemon juice (about 1 lemon)
-- Zest from 1½ lemon
-- 1 tsp vanilla extract
+- 1½ cups (188g) **all-purpose flour**
+- ½ tsp **baking powder**
+- ½ tsp **kosher salt**
+- 1 cup (230g; 2 sticks) **unsalted butter**, room temperature
+- 1 cup (200g) **granulated sugar**
+- 3 large **eggs**, room temperature
+- ¼ cup (60g) **sour cream** (or plain greek yogurt), room temperature
+- 3 T (45ml) freshly squeezed **lemon juice** (about 1 lemon)
+- Zest from 1½ **lemon**
+- 1 tsp **vanilla extract**
 
 #### Icing
 
-- 1 cup (120g) confectioners’ sugar
-- 1½ T (22ml) lemon juice
-- 1 T (15ml) heavy cream or milk
+- 1 cup (120g) **confectioners’ sugar**
+- 1½ T (22ml) **lemon juice**
+- 1 T (15ml) **heavy cream** or milk
 
 ### Special Equipment
 

@@ -17,29 +17,29 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 #### Greens
 
-- 3 T extra-virgin olive oil
-- 2 bunches swiss chard
-- 1 large shallot
-- 1 3" piece ginger
-- Kosher salt
+- 3 T **extra-virgin olive oil**
+- 2 bunches **swiss chard**
+- 1 large **shallot**
+- 1 3" piece **ginger**
+- **Kosher salt**
 
 #### Fish
 
-- 2 T extra-virgin olive oil
-- ½ tsp ground turmeric
-- 24oz skinless salmon fillet, preferably center cut
-- Freshly ground black pepper
+- 2 T **extra-virgin olive oil**
+- ½ tsp **ground turmeric**
+- 24oz skinless **salmon** fillet, preferably center cut
+- **Freshly ground black pepper**
 
 #### Coconut crisp
 
-- 1 T extra-virgin olive oil
-- 3 cloves garlic
-- ½ serrano chile
-- ½ cup unsweetened coconut flakes
+- 1 T **extra-virgin olive oil**
+- 3 cloves **garlic**
+- ½ **serrano chile**
+- ½ cup **unsweetened coconut flakes**
 
-#### Rice or sides
+#### Serve with
 
-- Rice or sides
+- **Rice** or sides
 
 ### Special Equipment
 
@@ -81,9 +81,9 @@ _Prepare rice or sides if desired_
     1. 3 min - cook until leaves partly wilted
         - **Chopped swiss chard leaves**
     1. Remove from heat
-    1. Season with **salt**
+    1. Season with **kosher salt**
     1. Add **24oz skinless salmon fillet** on top of **greens**
-        - Season with **salt**
+        - Season with **kosher salt**
         - Coat with **turmeric/oil mixutre**
 
 ### Bake salmon

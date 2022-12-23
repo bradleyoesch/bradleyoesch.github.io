@@ -15,23 +15,23 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Ingredients
 
-- 2 tsp, ¼ cup soy sauce, divided
-- 1½ tsp, 1 tsp tsp cornstarch, divided
-- ½ tsp, 1 tsp sugar, divided
-- ½ tsp kosher salt, plus more to taste
-- 1 lb skinless, boneless chicken thighs
-- 3 T sambal oelek
-- 2 T rice vinegar
-- ¼ cup water
-- 4 garlic cloves
-- 2" piece ginger
-- 6 scallions
-- 4 celery stalks
-- 4 oz medjool dates (about 5)
-- 1½ cups cilantro leaves with tender stems, divided
-- ⅓ cup vegetable oil
-- ¾ cup roasted, salted peanuts
-- Cooked rice (for serving)
+- 2 tsp, ¼ cup **soy sauce**, divided
+- 1½ tsp, 1 tsp **cornstarch**, divided
+- ½ tsp, 1 tsp **granulated sugar**, divided
+- ½ tsp **kosher salt**, plus more to taste
+- 1 lb **skinless, boneless chicken thighs**
+- 3 T **sambal oelek**
+- 2 T **rice vinegar**
+- ¼ cup **water**
+- 4 cloves **garlic**
+- 2" piece **ginger**
+- 6 **scallions**
+- 4 stalks **celery**
+- 4 oz **medjool dates** (about 5)
+- 1½ cups **cilantro** leaves with tender stems, divided
+- ⅓ cup **neutral oil**
+- ¾ cup roasted, salted **peanuts**
+- Cooked **rice** (for serving)
 
 #### Ingredient Substitutes
 
@@ -66,8 +66,8 @@ _Cook rice or sides before prepping._
     1. Whisk
         - **2 tsp soy sauce**
         - **1½ tsp cornstarch**
-        - **½ tsp sugar**
-        - **½ tsp salt**
+        - **½ tsp granulated sugar**
+        - **½ tsp kosher salt**
     1. Cut into ½" pieces, add to bowl with marinade
         - **1 lb skinless, boneless chicken thighs**
 1. Whisk in small bowl
@@ -75,14 +75,14 @@ _Cook rice or sides before prepping._
     - **2 T rice vinegar**
     - **¼ cup soy sauce**
     - **1 tsp cornstarch**
-    - **1 tsp sugar**
+    - **1 tsp granulated sugar**
     - **¼ cup water**
 1. Combine in small bowl
-    - **4 garlic cloves** - finely chop
+    - **4 cloves garlic** - finely chop
     - **2" piece ginger** - finely chop (with skins, doesn't matter)
 1. Combine in medium bowl
     1. **6 scallions** - trim roots, slice crosswise into ½" pieces
-    1. **4 celery stalks** - cut in half lengthwise, then crosswise into ½" pieces
+    1. **4 stalks celery** - cut in half lengthwise, then crosswise into ½" pieces
     1. **4 oz dates** - remove and discard pits, cut into ½" pieces
 1. Coarsely chop
     - **1½ cup cilantro leaves**
@@ -95,7 +95,7 @@ _Cook rice or sides before prepping._
 
 1. In cast-iron skillet over medium
     1. Combine
-        - **⅓ cup vegetable oil**
+        - **⅓ cup neutral oil**
         - **¾ cup roasted, salted peanuts**
     1. 5-7 min - stirring often
         - Until a few shades darker and fragrent
@@ -120,7 +120,7 @@ _Cook rice or sides before prepping._
 
 1. Remove skillet from heat
 1. Stir in **fried peanuts, chopped cilantro**
-1. Add **salt** to taste
+1. Add **kosher salt** to taste
 1. Scatter **celery leaves, cilantro leaves** when serving
 
 ## Notes

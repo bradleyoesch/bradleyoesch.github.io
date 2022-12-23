@@ -22,8 +22,8 @@ _<sup>Image source: <https://vice.com></sup>_
 - ½ tsp baking powder
 - ½ tsp baking soda
 - ¼ tsp cinnamon
-- Pinch of salt
-- 2 eggs
+- Pinch of kosher salt
+- 2 large eggs
 - 1 cup buttermilk
 - 1 tsp vanilla extract
 - ½ T granulated sugar
@@ -31,7 +31,7 @@ _<sup>Image source: <https://vice.com></sup>_
 #### Cooking
 
 - Some butter
-- A little oil
+- A little neutral oil
 
 ### Special Equipment
 
@@ -54,8 +54,8 @@ _<sup>Image source: <https://vice.com></sup>_
     - **½ tsp baking powder**
     - **½ tsp baking soda**
     - **¼ tsp cinnamon**
-    - **Pinch of salt**
-1. In medium and small bowl, separate **2 eggs**
+    - **Pinch of kosher salt**
+1. In medium and small bowl, separate **2 large eggs**
     1. Add to medium bowl
         1. **Egg whites**
         1. Beat till fluffy
@@ -74,7 +74,7 @@ _<sup>Image source: <https://vice.com></sup>_
 ### Cook
 
 1. Heat nonstick pan over medium-high heat
-1. Add **some butter** and **a little oil** to the pan, let melt
+1. Add **some butter** and **a little neutral oil** to the pan, let melt
 1. Spoon **batter** into pan and let rest
 1. After a bit, add **some more butter** and swirl around pancakes to crisp up the edges
 1. When you see bubbles in middle, flip

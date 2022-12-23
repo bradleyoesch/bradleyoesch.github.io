@@ -16,16 +16,16 @@ _<sup>Image source: <https://richanddelish.com></sup>_
 
 ### Ingredients
 
-- ¾ cup + 1 T (116g) flour
-- ¾ tsp baking powder
-- 3 eggs
-- 1¼ cup (250g) sugar
-- ¾ tsp salt
-- 1 T canola oil
-- 1 tsp vanilla
-- 5 T (70g) unsalted butter
-- 8oz (226g) semisweet chocolate
-- ¼ cup (25g) cocoa powder
+- ¾ cup + 1 T (116g) **all-purpose flour**
+- ¾ tsp **baking powder**
+- 3 large **eggs**
+- 1¼ cup (250g) **granulated sugar**
+- ¾ tsp **kosher salt**
+- 1 T **neutral oil**
+- 1 tsp **vanilla extract**
+- 5 T (70g) **unsalted butter**
+- 8oz (226g) **semi-sweet chocolate**
+- ¼ cup (25g) unsweetened **cocoa powder**
 
 ### Special Equipment
 
@@ -46,22 +46,22 @@ _Note: does not need to be refridgerated before baking_
 1. Preheat oven to 350°F
 1. In medium bowl
     1. Mix
-        - **¾ cup + 1 T (116g) flour**
+        - **¾ cup + 1 T (116g) all-purpose flour**
         - **¾ tsp baking powder**
 1. In large bowl _(meanwhile melt butter/chocolate, see below)_
     1. 6-8 min - beat on med-high till pale, 2x volume
-        - **3 eggs**
-        - **1¼ cup (250g) sugar**
-        - **¾ tsp salt**
+        - **3 large eggs**
+        - **1¼ cup (250g) granulated sugar**
+        - **¾ tsp kosher salt**
     1. Beat on low
-        - **1 T canola oil**
-        - **1 tsp vanilla**
+        - **1 T neutral oil**
+        - **1 tsp vanilla extract**
 1. In small saucepan
     1. Melt over low heat, stirring frequently
         - **5 T (70g) unsalted butter**
-        - **8oz (226g) semisweet chocolate**
+        - **8oz (226g) semi-sweet chocolate**
     1. Once melted, off heat, whisk in to butter/chocolate
-        - **¼ cup (25g) cocoa powder**
+        - **¼ cup (25g) unsweetened cocoa powder**
 1. Mix **butter/chocolate** into **egg mixture** on low
 1. Mix **flour/powder** in on low
 
@@ -83,7 +83,7 @@ _Note: does not need to be refridgerated before baking_
 
 ### Post-bake
 
-1. Optionally sprinkle **salt** on **cookies**
+1. Optionally sprinkle **flaky salt** on **cookies**
 1. 10 min - cool completely on pan
 
 ## Notes

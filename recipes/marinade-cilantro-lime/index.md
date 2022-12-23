@@ -9,12 +9,12 @@
 
 _Per pound of meat_
 
-- 4 T olive oil
-- 2 T fresh cilantro, chopped
-- 2 T lime juice
-- 1 cloves garlic, minced
-- ½ tsp crushed red pepper flakes
-- ½ tsp cumin
-- ½ tsp paprika
-- 1 tsp salt
-- ¼ tsp black pepper
+- 4 T **extra-virgin olive oil**
+- 2 T **cilantro**, chopped
+- 2 T **lime juice**
+- 1 cloves **garlic**, minced
+- ½ tsp **crushed red pepper flakes**
+- ½ tsp **cumin**
+- ½ tsp **paprika**
+- 1 tsp **kosher salt**
+- ¼ tsp **freshly ground black pepper**

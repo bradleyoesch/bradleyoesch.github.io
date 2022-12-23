@@ -9,13 +9,13 @@
 
 _Per pound of meat_
 
-- ⅓ cup plain greek yogurt
-- ¼ cup olive oil
-- 1 lemon, zested, juiced
-- 4-5 cloves garlic, minced
-- 2 T dried oregano
-- 1 tsp kosher salt
-- ½ tsp freshly ground black pepper
+- ⅓ cup **plain greek yogurt**
+- ¼ cup **extra-virgin olive oil**
+- 1 **lemon**, zested, juiced
+- 4-5 cloves **garlic**, minced
+- 2 T **dried oregano**
+- 1 tsp **kosher salt**
+- ½ tsp **freshly ground black pepper**
 
 ### Special equipment
 

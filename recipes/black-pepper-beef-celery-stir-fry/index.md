@@ -14,20 +14,20 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Ingredients
 
-- 3 cloves garlic
-- 1" piece ginger
-- 2 tsp freshly ground black pepper
-- 1 tsp toasted sesame oil
-- 2 T vegetable oil, divided
-- 1 lb sirloin steak
-- Kosher salt
-- 5 celery stalks
-- 4 scallions
-- 2 T low-sodium soy sauce
-- 1 T unseasoned rice vinegar
-- 1 T unsalted butter
-- 3 T water
-- Cooked rice (for serving)
+- 3 cloves **garlic**
+- 1" piece **ginger**
+- 1 lb **sirloin steak**
+- 5 stalks **celery**
+- 4 **scallions**
+- 1 T **unsalted butter**
+- 2 tsp **freshly ground black pepper**
+- 1 tsp toasted **sesame oil**
+- 2 T **neutral oil**, divided
+- **Kosher salt**
+- 2 T low-sodium **soy sauce**
+- 1 T unseasoned **rice vinegar**
+- 3 T **water**
+- Cooked **rice** (for serving)
 
 #### Substitutes
 
@@ -45,20 +45,20 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 _Cook rice or sides before prepping._
 
-- Finely grate **3 cloves garlic**, **2 tsp ginger**
+- Finely grate **3 cloves garlic**, **1" piece ginger**
 - Thinly slice crosswise **1 lb sirloin steak**
-- Slice crosswise **5 celery stalks** into ¼" thick pieces
+- Slice crosswise **5 stalks celery** into ¼" thick pieces
     - Keep around **1 cup celery leaves**
 - Cut crosswise **4 scallions** into 1½"–2" pieces
 - Cut **1 T unsalted butter** into 4-8 pieces
 
 - In medium bowl
     1. Whisk
-        - **3 finely grated cloves garlic**
-        - **2 tsp finely grated ginger**
+        - **3 cloves garlic, finely grated**
+        - **1" piece ginger, finely grated**
         - **2 tsp freshly ground black pepper**
-        - **1 tsp toasted Sesame oil**
-        - **1 T vegetable oil**
+        - **1 tsp toasted sesame oil**
+        - **1 T neutral oil**
     1. Toss to coat
         - **1 lb sirloin steak**
         - Season with **kosher salt**
@@ -67,11 +67,11 @@ _Cook rice or sides before prepping._
 
 _One pot recipe, all in large cast-iron skillet._
 
-1. Heat **1 T vegetable oil**
+1. Heat **1 T neutral oil**
 1. 1 min - **1 lb sirloin steak**
 1. 2 min - toss often, until scallions slightly charred
     1. Turn **steak** over
-    1. Add **5 sliced celery stalks**
+    1. Add **5 sliced stalks celery**
     1. Add **4 sliced scallions**
 1. Remove from heat
 1. Toss until butter is melted and sauce coats steak

@@ -16,29 +16,29 @@ _<sup>Image source: <https://vice.com></sup>_
 
 #### Batter
 
-- 1 cup all-purpose flour
-- 1½ T granulated sugar
-- ½ tsp baking powder
-- ½ tsp baking soda
-- ¼ tsp cinnamon
-- Pinch of salt
-- 1 egg
-- ½ T granulated sugar
-- 1½ T oil
-- ¾ - 1 cup buttermilk
-- 1½ tsp vanilla extract
+- 1 cup **all-purpose flour**
+- 1½ T **granulated sugar**
+- ½ tsp **baking powder**
+- ½ tsp **baking soda**
+- ¼ tsp **ground cinnamon**
+- Pinch of **kosher salt**
+- 1 large **egg**
+- ½ T **granulated sugar**
+- 1½ T **neutral oil**
+- ¾ - 1 cup **buttermilk**
+- 1½ tsp **vanilla extract**
 
 ##### Substitutes
 
-- ~1 cup Buttermilk
+- ~1 cup buttermilk
     - ~¾ cup milk
     - 2 T white or apple cider vinegar
     - (let rest for 10 min)
 
 #### Cooking
 
-- Some butter
-- A little oil
+- Some **butter**
+- A little **neutral oil**
 
 ### Special Equipment
 
@@ -57,13 +57,13 @@ _<sup>Image source: <https://vice.com></sup>_
     - **1½ T granulated sugar**
     - **½ tsp baking powder**
     - **½ tsp baking soda**
-    - **¼ tsp cinnamon**
-    - **Pinch of salt**
+    - **¼ tsp ground cinnamon**
+    - **Pinch of kosher salt**
 1. In medium bowl
     1. Mix
-        1. **1 egg**
+        1. **1 large egg**
         1. **½ T granulated sugar**
-        1. Slowly add **1½ T oil**
+        1. Slowly add **1½ T neutral oil**
     1. Mix
         1. Add **1 cup buttermilk**
         1. Add **1½ tsp vanilla extract**
@@ -77,7 +77,7 @@ _<sup>Image source: <https://vice.com></sup>_
 ### Cook
 
 1. Heat nonstick pan over medium-high heat
-1. Add **some butter** and **a little oil** to the pan, let melt
+1. Add **some butter** and **a little neutral oil** to the pan, let melt
 1. Spoon **batter** into pan and let rest
 1. After a bit, add **some more butter** and swirl around pancakes to crisp up the edges
 1. When you see bubbles in middle, flip

@@ -13,12 +13,12 @@ _<sup>Image source: <https://eatingwell.com></sup>_
 ### Ingredients
 
 
-- 3 eggs
-- 2 T granulated sugar
-- ½ tsp vanilla extract
-- ⅛ tsp ground nutmeg
-- Pinch of salt
-- 1 - 1½ cup milk
+- 3 large **eggs**
+- 2 T **granulated sugar**
+- ½ tsp **vanilla extract**
+- Pinch of **kosher salt**
+- 1 - 1½ cup **milk**
+- **Ground nutmeg**
 
 ### Special Equipment
 
@@ -31,12 +31,11 @@ _<sup>Image source: <https://eatingwell.com></sup>_
 
 1. In small bowl
     1. Mix on high until nearly overmixed
-        - **3 eggs**
+        - **3 large eggs**
         - **2 T granulated sugar**
         - **½ tsp vanilla extract**
-        - **⅛ tsp ground nutmeg**
-        - **Pinch of salt**
+        - **Pinch of kosher salt**
     1. Mix until desired taste
         - **1 - 1½ cup milk**
 1. Strain into glasses
-1. Top with **nutmeg**
+1. Top with **ground nutmeg**

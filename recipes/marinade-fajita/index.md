@@ -9,13 +9,13 @@
 
 _Per pound of meat_
 
-- 2 T olive oil
-- 1½ T lime juice (about 1-2 limes squeezed)
-- 4 T chopped cilantro
-- 2 cloves garlic, minced
-- 1 tsp chili powder
-- ½ tsp cumin
-- ½ tsp kosher salt
-- ¼ tsp dried oregano
-- ¼ tsp onion powder
-- ¼ tsp freshly ground black pepper
+- 2 T **extra-virgin olive oil**
+- 1½ T **lime juice** (about 1-2 limes)
+- 4 T **cilantro**, chopped
+- 2 cloves **garlic**, minced
+- 1 tsp **chili powder**
+- ½ tsp **cumin**
+- ½ tsp **kosher salt**
+- ¼ tsp **dried oregano**
+- ¼ tsp **onion powder**
+- ¼ tsp **freshly ground black pepper**

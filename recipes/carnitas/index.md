@@ -15,13 +15,13 @@ _<sup>Image source: <https://seriouseats.com></sup>_
 
 ### Ingredients
 
-- 3 pounds pork shoulder
-- Salt
-- 1 medium orange
-- ½ onion
-- 4 cloves garlic
-- 2 bay leaves
-- ¼ cup vegetable oil
+- 3 lbs **pork shoulder**
+- **Kosher salt**
+- 1 medium **orange**
+- ½ **white onion**
+- 4 cloves ***garlic***
+- 2 **dried bay leaves**
+- ¼ cup **neutral oil**
 
 ### Special Equipment
 
@@ -38,11 +38,11 @@ _Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnigh
 1. Preheat oven to 275°F
 1. Slice into 2 inch cubes
     - **3 lbs pork shoulder**
-    - Season with **Salt**
+    - Season generously with **kosher salt**
 1. Slice into 4 quarters
     - **1 orange**
 1. Slice in half
-    - **½ onion**
+    - **½ white onion**
 1. In 9x13 baking dish
     1. Arrange around dish
         - **Cubed pork shoulder**
@@ -50,11 +50,11 @@ _Optionally cut the 3 lbs pork shoulder into 2 inch cubes and dry brine overnigh
         - **4 orange quarters**
     1. Wedge into the dish in an even layer:
         - **4 squeezed orange rind quarters**
-        - **Halved ½ onion**
+        - **Halved ½ white onion**
         - **4 cloves garlic**
-        - **2 bay leaves**
+        - **2 dried bay leaves**
     1. Pour over dish
-        - **¼ cup vegetable oil**
+        - **¼ cup neutral oil**
 
 ### Cook
 

@@ -16,24 +16,24 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 ### Ingredients
 
-- 1 cup (125g) all-purpose flour
-- ½ cup + 2 T (50g) unsweetened natural cocoa powder
-- 1 tsp baking soda
-- ⅛ tsp salt
-- ½ cup (1 stick; 115g) unsalted butter, room temperature
-- ½ cup (100g) granulated sugar
-- ½ cup (100g) packed light or dark brown sugar
-- 1 large egg, room temperature
-- 1 tsp pure vanilla extract
-- 1 cup (180g) mini or regular size semi-sweet chocolate chips
-- 3 T (35g) granulated sugar, for rolling
-- 1 cup (120g) confectioners’ sugar, for rolling
+- 1 cup (125g) **all-purpose flour**
+- ½ cup + 2 T (50g) **unsweetened cocoa powder**
+- 1 tsp **baking soda**
+- ⅛ tsp **kosher salt**
+- ½ cup (1 stick; 115g) **unsalted butter**, room temperature
+- ½ cup (100g) **granulated sugar**
+- ½ cup (100g) packed light or dark **brown sugar**
+- 1 large **egg**, room temperature
+- 1 tsp **vanilla extract**
+- 1 cup (180g) mini or regular size **semi-sweet chocolate chips**
+- 3 T (35g) **granulated sugar**, for rolling
+- 1 cup (120g) **confectioners’ sugar**, for rolling
 
 ### Special Equipment
 
 - 2 medium bowls
 - Baking scale
-- Hand mixer
+- Hand mixer / stand mixer w/ paddle
 - Baking sheet
 - Parchment paper
 
@@ -43,9 +43,9 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 1. In medium bowl
     - **1 cup (125g) all-purpose flour**
-    - **½ cup + 2 T (50g) unsweetened natural cocoa powder**
+    - **½ cup + 2 T (50g) unsweetened cocoa powder**
     - **1 tsp baking soda**
-    - **⅛ tsp salt**
+    - **⅛ tsp kosher salt**
 1. In medium bowl
     1. 2-3 min - beat on med-high until fluffy and light in color
         - **½ cup (1 stick; 115g) unsalted butter, room temperature**
@@ -53,7 +53,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
         - **½ cup (100g) packed light or dark brown sugar**
     1. Beat on high
         - **1 large egg, room temperature**
-        - **1 tsp pure vanilla extract**
+        - **1 tsp vanilla extract**
 1. On low
     1. Add **dries** to **wets**
     1. Dough will be very sticky

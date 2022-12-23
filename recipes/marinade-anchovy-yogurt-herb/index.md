@@ -9,15 +9,15 @@
 
 _Per pound of meat_
 
-- 1½ heaping cups mixed tender herbs
+- 1½ heaping cups **mixed tender herbs**
     - e.g. dill, parsley, cilantro, basil, mint, tarragon, chives
-- ½ cup plain greek yogurt
-- 2 oil-packed anchovy fillets
-- 2 T extra-virgin olive oil
-- ½ lemon, zested, juiced
-- 1 garlic clove, smashed
-- Kosher salt
-- Freshly ground black pepper
+- ½ cup **plain greek yogurt**
+- 2 **anchovy fillets**
+- 2 T **extra-virgin olive oil**
+- ½ **lemon**, zested, juiced
+- 1 clove **garlic**, smashed
+- **Kosher salt**
+- **Freshly ground black pepper**
 
 ### Special equipment
 

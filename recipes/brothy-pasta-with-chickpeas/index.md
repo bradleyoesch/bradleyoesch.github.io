@@ -15,17 +15,17 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 ### Ingredients
 
-- 3 T extra-virgin olive oil, plus more for serving
-- 1 small onion
-- 3 cloves garlic
-- 1 sprig rosemary
-- ¼ tsp crushed red pepper flakes
-- 1 15 oz can chickpeas
-- 1 cup whole peeled tomatoes
-- 6 oz orecchiette or other short pasta
-- 4 cups water
-- 2 T finely chopped parsley
-- 3 T finely grated parmesan, plus more for serving
+- 3 T **extra-virgin olive oil**, plus more for serving
+- 1 small **onion**
+- 3 cloves **garlic**
+- 1 sprig **rosemary**
+- ¼ tsp **crushed red pepper flakes**
+- 1 15 oz can **chickpeas**
+- 1 cup **whole peeled tomatoes**
+- 6 oz **orecchiette** or other short pasta
+- 4 cups **water**
+- 2 T **parsley**
+- 3 T **parmesan**, plus more for serving
 
 ### Special Equipment
 
@@ -47,10 +47,9 @@ _<sup>Image source: <https://bonappetit.com></sup>_
 
 _One pot recipe, all in large saucepan._
 
-1. Heat **3 T oil** on medium
+1. Heat **3 T extra-virgin olive oil** on medium
 1. 5 min - stirring occasionally
     - **1 finely chopped onion**
-    - Season with **salt**
 1. 5-6 min - until just beginning to brown around edges
     - **3 thinly sliced garlic cloves**
 1. 30 sec
@@ -71,7 +70,7 @@ _One pot recipe, all in large saucepan._
 
 ### Serving
 
-1. Top with **oil**, **parmeson**, **black pepper**
+1. Top with **oil**, **parmeson**, **freshly ground black pepper**
 
 ### Storage
 
