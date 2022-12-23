@@ -10,7 +10,7 @@
 
 ![](./hero.jpg){:width="600px"}
 <br />
-_<sup>Image source: <https://example.com></sup>_
+_<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 ## Inventory
 
