@@ -17,7 +17,7 @@ _<sup>Image source: <https://example.com></sup>_
 ### Ingredients
 
 - 1 cup (125g) all-purpose flour
-- ½ cup + 2 Tablespoons (50g) unsweetened natural cocoa powder
+- ½ cup + 2 T (50g) unsweetened natural cocoa powder
 - 1 tsp baking soda
 - ⅛ tsp salt
 - ½ cup (1 stick; 115g) unsalted butter, room temperature
@@ -43,7 +43,7 @@ _<sup>Image source: <https://example.com></sup>_
 
 1. In medium bowl
     - **1 cup (125g) all-purpose flour**
-    - **½ cup + 2 Tablespoons (50g) unsweetened natural cocoa powder**
+    - **½ cup + 2 T (50g) unsweetened natural cocoa powder**
     - **1 tsp baking soda**
     - **⅛ tsp salt**
 1. In medium bowl
