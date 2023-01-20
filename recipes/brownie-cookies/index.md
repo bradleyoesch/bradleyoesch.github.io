@@ -72,7 +72,7 @@ _Note: does not need to be refridgerated before baking_
 ### Pre-bake
 
 1. Line baking sheet with parchment paper
-1. Drop **heaping T of batter** (35g) at least 2" apart
+1. Drop heaping T of batter (35g) at least 2" apart
     - Cookies will spread to 3-4" wide
 
 ### Bake

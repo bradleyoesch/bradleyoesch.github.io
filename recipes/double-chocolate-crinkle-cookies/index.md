@@ -6,7 +6,7 @@
     - Cook time: 12 minutes
     - Post-cook time: 10 minutes
 - Yield: 20-22 cookies
-- Modified from: [Sarah Kieffer](https://sallysbakingaddiction.com/double-chocolate-crinkle-cookies/)
+- Modified from: [Sally's Baking Addiction](https://sallysbakingaddiction.com/double-chocolate-crinkle-cookies/)
 
 ![](./hero.jpg){:width="600px"}
 <br />
@@ -74,7 +74,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     - **3 T (35g) granulated sugar**
 1. In small bowl
     - **1 cup (120g) confectioners’ sugar**
-1. Scoop dough into 1½ T balls
+1. Scoop dough into 1½ T (35g) balls
     1. Roll lightly in **granulated sugar**
     1. Roll generously in **confectioners’ sugar**
 1. Arrange on baking sheet 3" apart
