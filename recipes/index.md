@@ -10,6 +10,7 @@
 - [Cilantro Lime](./marinade-cilantro-lime)
 - [Fajita](./marinade-fajita)
 - [Lemon Yogurt](./marinade-lemon-yogurt)
+- [Mediterranean Yogurt](./marinade-mediterranean-yogurt)
 
 ### Meals
 
