@@ -5,9 +5,11 @@
     - Cook time: 10 minutes
     - Post-cook time: 10 minutes
 - Yield: 24 cookies
-- Modified from: [Sally's Baking Addiction](https://sallysbakingaddiction.com/double-chocolate-crinkle-cookies/)
+- Modified from: [Sally's Baking Addiction](https://sallysbakingaddiction.com/soft-thick-snickerdoodles-in-20-minutes/)
 
 ![](./hero.jpg){:width="600px"}
+<br />
+_<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 ## Inventory
 
