@@ -17,6 +17,7 @@
 - [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
 - [Chicken Piccata](./chicken-piccata)
 - [Chili](./chili)
+- [Ponzu Beef Bowl](./ponzu-beef-bowl)
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Turmeric Salmon with Coconut Crisp](./turmeric-salmon-with-coconut-crisp)
 
