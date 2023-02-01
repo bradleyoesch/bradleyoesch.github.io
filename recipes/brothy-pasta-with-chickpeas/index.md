@@ -7,7 +7,7 @@
 - Yield: 2 servings
 - Author: [Andy Baraghani, Chris Morocco](https://www.bonappetit.com/recipe/brothy-pasta-with-chickpeas)
 
-![](./hero.png){:width="600px"}
+![](./hero.jpg){:width="600px"}
 <br />
 _<sup>Image source: <https://bonappetit.com></sup>_
 
