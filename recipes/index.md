@@ -9,6 +9,7 @@
 - [Anchovy Yogurt Herb](./marinade-anchovy-yogurt-herb)
 - [Cilantro Lime](./marinade-cilantro-lime)
 - [Fajita](./marinade-fajita)
+- [Halal Chicken](./marinade-halal-chicken)
 - [Lemon Yogurt](./marinade-lemon-yogurt)
 - [Mediterranean Yogurt](./marinade-mediterranean-yogurt)
 
@@ -18,6 +19,7 @@
 - [Brothy Pasta with Chickpeas](./brothy-pasta-with-chickpeas)
 - [Chicken Piccata](./chicken-piccata)
 - [Chili](./chili)
+- [Halal Chicken and Rice](./halal-chicken-and-rice)
 - [Ponzu Beef Bowl](./ponzu-beef-bowl)
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
 - [Turmeric Salmon with Coconut Crisp](./turmeric-salmon-with-coconut-crisp)
@@ -39,3 +41,6 @@
 ### Drinks
 
 - [Quick Eggnog](./quick-eggnog)
+
+## Uncategorized
+- [Marinade Halal Chicken](./marinade-halal-chicken)
