@@ -31,6 +31,7 @@
 ### Desserts
 
 - [Brownie Cookies](./brownie-cookies)
+- [Chocolate Sheath Cake](./chocolate-sheath-cake)
 - [Double Chocolate Crinkle Cookies](./double-chocolate-crinkle-cookies)
 - [Lemon Pound Cake](./lemon-pound-cake)
 - [Pecan Pie Bars](./pecan-pie-bars)
@@ -41,6 +42,3 @@
 ### Drinks
 
 - [Quick Eggnog](./quick-eggnog)
-
-## Uncategorized
-- [Marinade Halal Chicken](./marinade-halal-chicken)
