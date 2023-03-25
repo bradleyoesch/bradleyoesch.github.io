@@ -17,15 +17,15 @@ _<sup>Image source: <https://nytimes.com></sup>_
 
 #### Cake
 
-- 4 T (20g) **unsweetened cocoa powder**
+- 4 T (32g) **unsweetened cocoa powder**
+- ½ tsp **espresso powder or coffee grounds**
 - 8 T (1 stick; ½ cup) **margarine** (~80% fat)
 - ½ cup **shortening**
 - 1 cup **water**
 - 2 cups (400g) **granulated sugar**
 - 2 cups (250g) **all-purpose flour**
-- 1 tsp **cinnamon powder**
+- 1 tsp **ground cinnamon**
 - 1 tsp **baking soda**
-- ½ tsp **espresso powder or coffee grounds**
 - ½ tsp **kosher salt**
 - 1½ tsp **vanilla extract**
 - 2 **large eggs**, room temperature
@@ -38,11 +38,9 @@ _To grease cake pan_
 
 #### Icing
 
-_Note: other recipes have less pecans, more butter_
-
 - 6 T (¾ stick; ⅜ cup) **margarine** (~80% fat)
 - 5 T **milk**
-- 4 T (20g) **unsweetened cocoa powder**
+- 4 T (32g) **unsweetened cocoa powder**
 - ⅛ tsp **kosher salt**
 - 4 cups (480g) **powdered sugar**
 - 1½ tsp **vanilla extract**
@@ -80,15 +78,15 @@ _Note: other recipes have less pecans, more butter_
 1. In small saucepan
     1. Bring to boil then take off heat
         - **4 T unsweetened cocoa powder**
+        - **½ tsp espresso powder or coffee grounds**
         - **8 T margarine**
         - **½ cup shortening**
         - **1 cup water**
 1. In medium bowl
     1. Whisk
-        - **2 cups granulated sugar**
-        - **2 cups all-purpose flour**
-        - **1 tsp cinnamon powder**
-        - **½ tsp espresso powder or coffee grounds**
+        - **2 cups (400g) granulated sugar**
+        - **2 cups (250g) all-purpose flour**
+        - **1 tsp ground cinnamon**
         - **1 tsp baking soda**
         - **½ tsp kosher salt**
     1. Mix
@@ -115,7 +113,7 @@ _Note: other recipes have less pecans, more butter_
         - **4 T unsweetened cocoa powder**
         - **⅛ tsp kosher salt**
     1. Sift & mix a little at a time
-        - **4 cups powdered sugar**
+        - **4 cups (480g) powdered sugar**
     1. Mix
         - **1½ tsp vanilla extract**
     1. Mix
