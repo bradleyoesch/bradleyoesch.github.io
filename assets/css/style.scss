@@ -455,6 +455,15 @@ body.drivetone {
   color: #e4e4e4;
 }
 
+a {
+    color: #317fed;
+    font-weight: bold;
+
+    &:hover, &:active, &:focus, &:visited {
+        color: #004ebc
+    }
+}
+
 body.drivetone img {
   width: 49%;
 }
