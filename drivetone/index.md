@@ -5,13 +5,17 @@ class: drivetone
 
 # Drivetone
 
-Below are a bunch of spotify playlists for live music in Austin, split by month and genre.
+Below are a bunch of spotify playlists for live music in Austin.
 
-Hope you get to see some live music and discover new artists from these!
+The first is a running playlist with artists playing this current week, updated every week. The rest are split by month and genre and are not updated once the month is over.
+
+I made this for myself but enjoy!
 
 ## Playlists
 
 ### Live in Austin
+
+[![This Week in Austin](./images/alternative.jpg)](https://open.spotify.com/playlist/6UR1cm4ImMcv4fDwxwLZVH)
 
 #### Oct 2023
 
