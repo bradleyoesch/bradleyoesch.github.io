@@ -15,7 +15,7 @@ I made this for myself but enjoy!
 
 ### Live in Austin
 
-[![This Week in Austin](./images/alternative.jpg)](https://open.spotify.com/playlist/6UR1cm4ImMcv4fDwxwLZVH)
+[![This Week in Austin](./images/this-week.jpg)](https://open.spotify.com/playlist/6UR1cm4ImMcv4fDwxwLZVH)
 
 #### Oct 2023
 
