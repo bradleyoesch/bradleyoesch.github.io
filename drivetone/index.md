@@ -5,7 +5,7 @@ class: drivetone
 
 # Drivetone
 
-Below are a bunch of spotify playlists for live music in Austin.
+Below are a bunch of spotify playlists for finding live music in Austin. The playlists are all created under the [Drivetone](https://open.spotify.com/user/31avngohywcdspvfigvakfnw53o4?si=fdb381eae8b04765) spotify user.
 
 The first is a running playlist with artists playing this current week, updated every week. The rest are split by month and genre and are not updated once the month is over.
 
