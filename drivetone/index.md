@@ -13,11 +13,11 @@ I made this for myself but enjoy!
 
 ## Playlists
 
-### Live in Austin
+### This Week in Austin
 
 [![This Week in Austin](./images/this-week.jpg)](https://open.spotify.com/playlist/6UR1cm4ImMcv4fDwxwLZVH)
 
-#### Oct 2023
+### Live in Austin Oct 2023
 
 [![Live in Austin Oct 2023: Alternative](./images/alternative.jpg)](https://open.spotify.com/playlist/1jQJjmRCeSvX0zdvElJhi6)
 [![Live in Austin Oct 2023: Blues](./images/blues.jpg)](https://open.spotify.com/playlist/6itE7xpm7W2PXEYRDVk6pS)
@@ -38,7 +38,7 @@ I made this for myself but enjoy!
 [![Live in Austin Oct 2023: Miscellaneous](./images/miscellaneous.jpg)](https://open.spotify.com/playlist/2j9roueVqUWHgcPSp1rULe)
 [![Live in Austin Oct 2023: Uncategorized](./images/uncategorized.jpg)](https://open.spotify.com/playlist/3wy89y1gCcwQiSWyARcGty)
 
-#### Nov 2023
+### Live in Austin Nov 2023
 
 [![Live in Austin Nov 2023: Alternative](./images/alternative.jpg)](https://open.spotify.com/playlist/6fDgfm3LoNXbONRRVT86q8)
 [![Live in Austin Nov 2023: Blues](./images/blues.jpg)](https://open.spotify.com/playlist/1XvsNsCrU9LTxcGY2FHe3w)
@@ -57,7 +57,7 @@ I made this for myself but enjoy!
 [![Live in Austin Nov 2023: Miscellaneous](./images/miscellaneous.jpg)](https://open.spotify.com/playlist/76aG6Q3coyipt7aIk76RfL)
 [![Live in Austin Nov 2023: Uncategorized](./images/uncategorized.jpg)](https://open.spotify.com/playlist/5VXPumYukIN3cSCTxViyKf)
 
-#### Dec 2023
+### Live in Austin Dec 2023
 
 [![Live in Austin Dec 2023: Alternative](./images/alternative.jpg)](https://open.spotify.com/playlist/2M2TxYj1ZK6icHkbeBxTZA)
 [![Live in Austin Dec 2023: Blues](./images/blues.jpg)](https://open.spotify.com/playlist/3mQYHtPElEKvD7S7F8vsAT)
