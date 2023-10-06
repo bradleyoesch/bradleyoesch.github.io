@@ -67,7 +67,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 ### Chill
 
-1. 1 hour to 3 days - cover and refridgerate
+1. 1 hour to 3 days - cover and refrigerate
 
 ### Pre-bake
 

@@ -18,6 +18,7 @@ _<sup>Image source: <https://example.com></sup>_
 - ⅛
 - ¼
 - ⅓
+- ⅜
 - ½
 - ⅔
 - ¾

@@ -98,7 +98,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 #### Chill
 
-1. 2 hours to 3 days - cover and refridgerate
+1. 2 hours to 3 days - cover and refrigerate
     1. Every 15 min for first hour, rotate 90 degrees
 
 #### Slice

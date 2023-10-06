@@ -39,7 +39,7 @@ _<sup>Image source: <https://richanddelish.com></sup>_
 
 ## Instructions
 
-_Note: does not need to be refridgerated before baking_
+_Note: does not need to be refrigerated before baking_
 
 ### Prepare
 

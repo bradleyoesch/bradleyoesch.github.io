@@ -72,7 +72,7 @@ _<sup>Image source: <https://vice.com></sup>_
 
 # Chill
 
-1. Refridgerate for 10 min
+1. Refrigerate for 10 min
 
 ### Cook
 

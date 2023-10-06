@@ -69,7 +69,7 @@ _<sup>Image source: <https://vice.com></sup>_
 1. To **egg white mixture** in medium bowl
     1. Slowly add **yolk mixture**
     1. Slowly add **flour mixture**, mix until just combined
-1. Refridgerate for 10 min
+1. Refrigerate for 10 min
 
 ### Cook
 
