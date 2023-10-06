@@ -33,6 +33,7 @@
 ### Desserts
 
 - [Brownie Cookies](./brownie-cookies)
+- [Chocolate Chip Cookies (Brown Butter Pecan)](./chocolate-chip-cookies-brown-butter-pecan)
 - [Chocolate Sheath Cake](./chocolate-sheath-cake)
 - [Double Chocolate Crinkle Cookies](./double-chocolate-crinkle-cookies)
 - [Lemon Pound Cake](./lemon-pound-cake)
