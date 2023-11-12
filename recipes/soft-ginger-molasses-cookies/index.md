@@ -22,7 +22,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 - 1½ tsp **ground cinnamon**
 - ¼ tsp **ground cloves**
 - ¼ tsp **ground nutmeg**
-- ¼ tsp **kosher salt**
+- ¼ tsp - a pinch **kosher salt**
 - ¾ cup (1½ stick; 170g) **unsalted butter**, room temperature
 - ½ cup (100g) packed light or dark **brown sugar**
 - ¼ cup (50g) **granulated sugar**
@@ -77,13 +77,13 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     1. _If dough chilled longer than 2 hours, let rest at room temperature for at least 30 min_
 1. In small bowl
     - **⅓ cup (65g) granulated or coarse sugar**
-1. Scoop dough into 1 T balls
+1. Roll into 24g balls
     1. Roll in **sugar**
 1. Arrange on baking sheet 3" apart
 
 ### Bake
 
-1. 11-12 min - bake at 350°F
+1. 8-12 min - bake at 350°F
     - Until edges appear set
 
 ### Post-bake
