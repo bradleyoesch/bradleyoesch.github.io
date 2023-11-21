@@ -18,7 +18,7 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 
 - 1 cup (130g) **pecans**
 - 8oz (226g) semi-sweet or bittersweet **chocolate bars**
-- 1 cup (2 sticks; 226g) **unsalted butter**
+- 1 cup (226g; 2 sticks) **unsalted butter**
 - 2½ cups (313g) **all-purpose flour**
 - 1 tsp **baking soda**
 - ¾ tsp **ground cinnamon**
@@ -47,7 +47,7 @@ _Preheat oven to 300°F_
 #### Brown Butter
 
 1. In small saucepan
-    1. Brown **1 cup (16 T; 226g) unsalted butter**
+    1. Brown **1 cup (226g; 2 sticks) unsalted butter**
     1. In small bowl
         1. 5 min _(10 min max)_ - let rest
 

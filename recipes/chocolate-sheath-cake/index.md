@@ -16,7 +16,7 @@ _<sup>Image source: <https://nytimes.com></sup>_
 
 #### Cake
 
-- 16 T (2 sticks; 1 cup) **80% fat margarine**
+- 1 cup (226g; 2 sticks) **80% fat margarine**
 - 5 T **unsweetened cocoa powder**
 - ½ tsp **espresso powder or coffee grounds**
 - 1 cup **water**
@@ -77,7 +77,7 @@ _To grease cake pan_
 1. Preheat oven to 350°F
 1. In small saucepan on med-high heat
     1. Whisk until melted
-        - **16 T (2 sticks; 1 cup) 80% fat margarine**
+        - **1 cup (226g; 2 sticks) 80% fat margarine**
     1. Whisk until combined
         - **5 T unsweetened cocoa powder**
         - **½ tsp espresso powder or coffee grounds**

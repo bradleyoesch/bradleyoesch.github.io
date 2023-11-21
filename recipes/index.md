@@ -34,8 +34,9 @@
 - [Chocolate Chip Cookies (Brown Butter Pecan)](./chocolate-chip-cookies-brown-butter-pecan)
 - [Chocolate Sheath Cake](./chocolate-sheath-cake)
 - [Double Chocolate Crinkle Cookies](./double-chocolate-crinkle-cookies)
+- [Eggnog Snickerdoodles](./eggnog-snickerdoodles)
 - [Lemon Pound Cake](./lemon-pound-cake)
-- [Pecan Pie Bars](./pecan-pie-bars)
+<!-- - [Pecan Pie Bars](./pecan-pie-bars) -->
 - [Pumpkin Spice Roll Cookies](./pumpkin-spice-roll-cookies)
 - [Snickerdoodles](./snickerdoodles)
 - [Soft Ginger Molasses Cookies](./soft-ginger-molasses-cookies)
