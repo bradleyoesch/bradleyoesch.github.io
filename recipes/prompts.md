@@ -1,10 +1,10 @@
 # Prompts
 
-Some prompts I've iterated on to 
+Some prompts related to recipes etc.
 
 <details>
-<summary><a href="#">Recipe Converter - copy/paste recipe to simplify into markdown</a></summary>
-```
+<summary><strong>Recipe Converter</strong> - copy/paste recipe to simplify into markdown</summary>
+<pre>
 At the end of this prompt in the <recipe> tag is a freeform English recipe copied from the internet. Convert the recipe using the following rules:
 
 # General
@@ -19,9 +19,9 @@ At the end of this prompt in the <recipe> tag is a freeform English recipe copie
 - Remove any extraneous description sections or extras that may come from copy/pasting from an internet source
 - The output should be in a markdown block
 example:
-\`\`\`markdown
+```markdown
 # output
-\`\`\`
+```
 
 # Overview
 - Include the following values if available, as bullets
@@ -82,7 +82,7 @@ example:
 
 ## Example instructions format:
 
-\`\`\`markdown
+```markdown
 1. In small bowl  
    1. Whisk  
       * 188g all-purpose flour  
@@ -93,7 +93,7 @@ example:
    1. 1 min - beat on high until smooth and creamy  
       * 2 sticks (230g; 1 cup) unsalted butter, room temperature  
    ...
-\`\`\`
+```
 
 # Nutrition facts
 
@@ -113,5 +113,5 @@ example:
 
 <recipe>
 </recipe>
-```
+</pre>
 </details>
