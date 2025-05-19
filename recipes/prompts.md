@@ -3,7 +3,7 @@
 Some prompts related to recipes etc.
 
 <details>
-<summary><strong>Recipe Converter</strong> - copy/paste recipe to simplify into <a href="https://markdownlivepreview.com/" target="_blank" rel=noreferrer">markdown</a></summary>
+<summary><strong>Recipe Converter</strong> - copy/paste recipe to simplify into <a href="https://markdownlivepreview.com/" target="_blank" rel="noreferrer">markdown</a></summary>
 <pre>
 At the end of this prompt in the &lt;recipe&gt; tag is a freeform English recipe copied from the internet. Convert the recipe using the following rules:
 
