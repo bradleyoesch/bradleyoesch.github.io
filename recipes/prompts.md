@@ -111,7 +111,7 @@ example:
   - Sugar
 - Include a bulleted quick summary, contributors, overall health, etc
 
-<recipe>
-</recipe>
+&lt;recipe&gt;
+&lt;/recipe&gt;
 </pre>
 </details>
