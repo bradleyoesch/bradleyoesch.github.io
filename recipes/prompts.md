@@ -5,7 +5,7 @@ Some prompts related to recipes etc.
 <details>
 <summary><strong>Recipe Converter</strong> - copy/paste recipe to simplify into markdown</summary>
 <pre>
-At the end of this prompt in the <recipe> tag is a freeform English recipe copied from the internet. Convert the recipe using the following rules:
+At the end of this prompt in the &lt;recipe&gt; tag is a freeform English recipe copied from the internet. Convert the recipe using the following rules:
 
 # General
 - Break the recipe into high-level sections with clear headers, each can have sub sections/headers:
