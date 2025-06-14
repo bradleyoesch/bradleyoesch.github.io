@@ -30,7 +30,9 @@
 
 ### Desserts
 
+- [Banana Bread](./banana-bread)
 - [Brownie Cookies](./brownie-cookies)
+- [Brownies](./brownies)
 - [Chocolate Chip Cookies (Brown Butter Pecan)](./chocolate-chip-cookies-brown-butter-pecan)
 - [Chocolate Sheath Cake](./chocolate-sheath-cake)
 - [Double Chocolate Crinkle Cookies](./double-chocolate-crinkle-cookies)
