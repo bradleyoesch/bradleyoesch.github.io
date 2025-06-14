@@ -19,10 +19,10 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
 - 1 cup (125g) **all-purpose flour**
 - ½ cup + 2 T (50g) **unsweetened cocoa powder**
 - 1 tsp **baking soda**
-- ⅛ tsp **kosher salt**
+- ¼ tsp **kosher salt** (morton's)
 - ½ cup (1 stick; 115g) **unsalted butter**, room temperature
 - ½ cup (100g) **granulated sugar**
-- ½ cup (100g) packed light or dark **brown sugar**
+- ½ cup (100g) packed **light brown sugar**
 - 1 large **egg**, room temperature
 - 1 tsp **vanilla extract**
 - 1 cup (180g) mini or regular size **semi-sweet chocolate chips**
@@ -45,12 +45,12 @@ _<sup>Image source: <https://sallysbakingaddiction.com></sup>_
     - **1 cup (125g) all-purpose flour**
     - **½ cup + 2 T (50g) unsweetened cocoa powder**
     - **1 tsp baking soda**
-    - **⅛ tsp kosher salt**
+    - **¼ tsp kosher salt**
 1. In medium bowl
     1. 2-3 min - beat on med-high until fluffy and light in color
         - **½ cup (1 stick; 115g) unsalted butter, room temperature**
         - **½ cup (100g) granulated sugar**
-        - **½ cup (100g) packed light or dark brown sugar**
+        - **½ cup (100g) packed light brown sugar**
     1. Beat on high
         - **1 large egg, room temperature**
         - **1 tsp vanilla extract**
