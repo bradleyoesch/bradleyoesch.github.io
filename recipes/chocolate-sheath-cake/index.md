@@ -25,7 +25,7 @@ _<sup>Image source: <https://nytimes.com></sup>_
 - 2 tsp **baking soda**
 - 1 tsp **baking powder**
 - 1 tsp **ground cinnamon**
-- 1½ tsp **kosher salt**
+- 1 tsp **kosher salt** (morton's)
 - 2 **large eggs**, room temperature
 - 1½ tsp **vanilla extract**
 - ½ cup **buttermilk**, room temperature
@@ -91,7 +91,7 @@ _To grease cake pan_
         - **2 tsp baking soda**
         - **1 tsp baking powder**
         - **1 tsp ground cinnamon**
-        - **1½ tsp kosher salt**
+        - **1 tsp kosher salt**
     1. Whisk until just combined
         - **Chocolate mixture**
     1. Whisk until just combined
