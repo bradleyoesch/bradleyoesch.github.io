@@ -483,3 +483,21 @@ body.drivetone img {
     width: 24%;
   }
 }
+
+@import url("https://fonts.googleapis.com/css?family=Courier+Prime:400,700&display=swap");
+
+body.laser {
+  font-size: 16px;
+}
+body.laser * {
+  font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+}
+
+body.laser ul {
+  list-style-type: none;
+}
+
+body.laser ul li:before {
+  content: "- ";
+  margin-left: -1em;
+}
