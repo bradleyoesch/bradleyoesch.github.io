@@ -4,6 +4,20 @@ Created with [Github Pages][github-pages].
 
 Live at [pages.bradleyoesch.com][live-url].
 
+## Development
+
+### Setup (one-time)
+```bash
+make setup
+```
+
+### Run locally
+```bash
+make run
+```
+
+The site will be available at `http://localhost:4000` with live reload.
+
 ## Drivetone
 
 Added playlists and stuff to [/drivetone][drivetone].

@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Pages
 
 - [Drivetone](./drivetone)
