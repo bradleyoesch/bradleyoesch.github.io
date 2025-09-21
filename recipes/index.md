@@ -39,6 +39,7 @@
 - [Eggnog Snickerdoodles](./eggnog-snickerdoodles)
 - [Lemon Pound Cake](./lemon-pound-cake)
 <!-- - [Pecan Pie Bars](./pecan-pie-bars) -->
+- [Peanut Butter Miso Cookies](./peanut-butter-miso-cookies)
 - [Pumpkin Spice Roll Cookies](./pumpkin-spice-roll-cookies)
 - [Snickerdoodles](./snickerdoodles)
 - [Soft Ginger Molasses Cookies](./soft-ginger-molasses-cookies)
