@@ -22,6 +22,7 @@
 - [Halal Chicken and Rice](./halal-chicken-and-rice)
 - [Ponzu Beef Bowl](./ponzu-beef-bowl)
 - [Spicy Chicken Stir Fry with Celery and Peanuts](./spicy-chicken-stir-fry-with-celery-and-peanuts)
+- [Thai Basil Stir Fry](./thai-basil-stir-fry)
 - [Turmeric Salmon with Coconut Crisp](./turmeric-salmon-with-coconut-crisp)
 
 ### Sides
@@ -47,3 +48,5 @@
 ### Drinks
 
 - [Quick Eggnog](./quick-eggnog)
+
+## Uncategorized
