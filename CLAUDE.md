@@ -4,58 +4,30 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a Jekyll-based GitHub Pages site for Bradley Oesch's personal website. The site contains two main sections:
-- **Recipes**: A collection of cooking recipes with standardized formatting
-- **Drivetone**: Music playlists and related content
-- **Laser**: Information on a screenplay
+Jekyll-based GitHub Pages site for Bradley Oesch's personal website, live at `pages.bradleyoesch.com`. Deploys automatically when changes are pushed to `main`.
 
 ## Development Commands
 
-### Setup (one-time)
-```bash
-make setup
-```
-Installs Jekyll dependencies via bundler. Run this once before development.
+* `make setup` - one-time install of Jekyll dependencies via bundler
+* `make run` - starts dev server at `http://localhost:4000` with live reload
+* `make recipe` - interactive script to create a new recipe (prompts for title, creates directory, copies template, adds to index under "Uncategorized")
 
-### Local Development
-```bash
-make run
-```
-Starts Jekyll development server at `http://localhost:4000` with live reload enabled.
+## Recipe System
 
-### Recipe Management
-```bash
-make recipe
-```
-Creates a new recipe using an interactive script. This command:
-1. Prompts for recipe title
-2. Creates directory under `/recipes/` with URL-friendly name
-3. Copies template and replaces placeholder title
-4. Automatically updates the recipe index
+### Adding a recipe
 
-### Jekyll Site (GitHub Pages)
-This site is automatically built and deployed by GitHub Pages when changes are pushed to the `main` branch. No local Jekyll commands are needed for deployment.
+`make recipe` handles scaffolding, but after creating a recipe you still need to:
+1. Fill out `recipes/<recipe-dir>/index.md` using the template format
+2. Add a `hero.jpg` image to the recipe directory (or comment out the image line)
+3. Move the entry in `recipes/index.md` from `## Uncategorized` to the correct `###` category (Breakfast, Marinades, Meals, Sides, Desserts, Drinks)
 
-## Architecture & Structure
+### Recipe index format
 
-### Recipe System
-- **Template**: `recipes/template.md` - Standard recipe format with sections for ingredients, instructions, timing, etc.
-- **Creation Script**: `recipes/new.sh` - Bash script that automates recipe creation and index updates
-- **Index Management**: The script automatically maintains `/recipes/index.md` with categorized recipe listings
-- **Image Convention**: Each recipe should have a `hero.jpg` image in its directory
+Categories in `recipes/index.md` use `###` headings (not `##`). The only `##` heading is `## Uncategorized` at the bottom, which is where `new.sh` appends new entries. Entries within each category are alphabetically sorted.
 
-### Content Organization
-- **Recipes**: Organized by category (Breakfast, Meals, Desserts, etc.) in `/recipes/index.md`
-- **Drivetone**: Music-related content in `/drivetone/` directory
-- **Jekyll Layout**: Uses minimal theme with custom layouts in `_layouts/`
+### Recipe content conventions
 
-### File Naming
-- Recipe directories use lowercase with hyphens (e.g., "Chocolate Chip Cookies" → "chocolate-chip-cookies")
-- All recipe content lives in `index.md` files within recipe directories
-
-## Key Files
-
-- `_config.yml`: Jekyll configuration with minima theme and relative links plugin
-- `makefile`: Contains the `recipe` target for new recipe creation
-- `recipes/new.sh`: Interactive script for recipe generation
-- `recipes/template.md`: Standard template with timing, ingredients, and instruction sections
+* Ingredients are bolded inline within instructions (e.g., `**4 large eggs**`)
+* Measurements include both volume and weight where applicable (e.g., `1 cup (200g)`)
+* Unicode fractions are used (⅛ ¼ ⅓ ½ ⅔ ¾), not decimal or spelled-out fractions
+* Template sections (Prepare/Cook or Bake/Post-cook or Post-bake) are kept or removed as appropriate for the recipe
