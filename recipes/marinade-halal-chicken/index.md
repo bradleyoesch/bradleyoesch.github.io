@@ -11,8 +11,9 @@ For use with [Halal Chicken and Rice](../halal-chicken-and-rice).
 
 _Per pound of meat_
 
+- 2 T **extra-virgin olive oil**
 - 2 T **mayonnaise**
-- 2 tsp **lemon juice**
+- 1 T **lemon juice**
 - 3 cloves **garlic**, smashed
 - 1 T **freshly ground black pepper**
 - 2 tsp **dried oregano**
